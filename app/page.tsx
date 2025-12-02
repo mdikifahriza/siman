@@ -42,6 +42,7 @@ const PlantDiseaseDetector = () => {
   const [history, setHistory] = useState<any[]>([]);
   const [showHistory, setShowHistory] = useState(false);
   const [isCamera, setIsCamera] = useState(false);
+  const [isCapturing, setIsCapturing] = useState(false); // State baru untuk indikator capturing
 
   const fileInputRef = useRef<HTMLInputElement>(null);
   const videoRef = useRef<HTMLVideoElement>(null);
@@ -183,8 +184,19 @@ const PlantDiseaseDetector = () => {
       if (videoRef.current) {
         videoRef.current.srcObject = stream;
         setIsCamera(true);
+        setIsCapturing(true); // Mulai indikator capturing
+
+        // Tunggu video loaded, lalu capture otomatis
+        videoRef.current.addEventListener('loadeddata', () => {
+          setTimeout(() => {
+            capturePhoto();
+          }, 500); // Delay kecil untuk memastikan stabil
+        });
       }
-    } catch (error) { alert('Akses kamera ditolak.'); }
+    } catch (error) { 
+      alert('Akses kamera ditolak.'); 
+      setIsCapturing(false);
+    }
   };
 
   const capturePhoto = () => {
@@ -199,6 +211,7 @@ const PlantDiseaseDetector = () => {
       const stream = videoRef.current.srcObject as MediaStream;
       stream.getTracks().forEach(track => track.stop());
       setIsCamera(false);
+      setIsCapturing(false);
       setDetectionResult(null);
     }
   };
@@ -256,11 +269,18 @@ const PlantDiseaseDetector = () => {
 
           <input ref={fileInputRef} type="file" accept="image/*" onChange={handleImageUpload} className="hidden" />
 
-          {/* Camera UI */}
+          {/* Camera UI - Diubah: tanpa tombol, dengan indikator capturing */}
           {isCamera && (
             <div className="mb-6 relative">
               <video ref={videoRef} autoPlay playsInline className="w-full rounded-lg shadow-inner" />
-              <button onClick={capturePhoto} className="w-full mt-4 bg-red-500 text-white py-3 rounded-lg font-medium shadow-md">Ambil Foto</button>
+              {isCapturing && (
+                <div className="absolute inset-0 flex items-center justify-center bg-black bg-opacity-50 rounded-lg">
+                  <div className="text-white text-center">
+                    <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-white mx-auto mb-2"></div>
+                    <p>Mengambil gambar...</p>
+                  </div>
+                </div>
+              )}
             </div>
           )}
 
@@ -340,7 +360,7 @@ const PlantDiseaseDetector = () => {
                                  <p className="font-bold text-sm md:text-base truncate">{h.result.nama}</p>
                                  <p className="text-xs text-gray-500">{new Date(h.timestamp).toLocaleDateString()}</p>
                              </div>
-                             <button onClick={()=>deleteHistoryItem(h.id)} className="ml-auto text-red-500 flex-shrink-0"><X size={16}/></button>
+                            <button onClick={()=>deleteHistoryItem(h.id)} className="ml-auto text-red-500 flex-shrink-0"><X size={16}/></button>
                         </div>
                     ))}
                  </div>
@@ -350,5 +370,4 @@ const PlantDiseaseDetector = () => {
     </div>
   );
 };
-
 export default PlantDiseaseDetector;
