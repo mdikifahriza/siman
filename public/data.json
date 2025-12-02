@@ -1,0 +1,2655 @@
+{
+  "diseases": [
+    {
+      "id": 0,
+      "nama": "Apple Scab (Kudis Apel)",
+      "tanaman": "Apel",
+      "gambar": "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb",
+      "detail": "Apple scab atau kudis apel adalah penyakit jamur yang disebabkan oleh Venturia inaequalis. Penyakit ini menyerang daun dan buah apel, menyebabkan bercak-bercak coklat kehitaman yang kasar. Daun yang terinfeksi akan menguning dan gugur prematur, sementara buah yang terserang akan mengalami cacat dan kualitas menurun drastis.",
+      "gejala": [
+        "Bercak coklat kehijauan pada daun muda",
+        "Bercak menjadi hitam dan beludru seiring waktu",
+        "Daun mengkerut dan gugur sebelum waktunya",
+        "Buah memiliki bercak hitam kasar dan pecah-pecah",
+        "Pertumbuhan tanaman terhambat"
+      ],
+      "pencegahan": [
+        "Pilih varietas apel yang tahan terhadap penyakit kudis",
+        "Buang dan musnahkan daun-daun yang gugur di sekitar pohon",
+        "Jaga sirkulasi udara dengan pemangkasan yang tepat",
+        "Hindari penyiraman dari atas yang membasahi daun",
+        "Lakukan sanitasi kebun secara rutin",
+        "Tanam dengan jarak yang cukup antar pohon"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Dithane M-45",
+          "bahanAktif": "Mankozeb 80%",
+          "dosis": "2-3 gram/liter air",
+          "cara": "Semprot pada daun dan buah setiap 7-10 hari"
+        },
+        {
+          "merk": "Score 250 EC",
+          "bahanAktif": "Difenokonazol 250 g/L",
+          "dosis": "0.5 ml/liter air",
+          "cara": "Aplikasi saat gejala awal muncul"
+        },
+        {
+          "merk": "Antracol 70 WP",
+          "bahanAktif": "Propineb 70%",
+          "dosis": "2 gram/liter air",
+          "cara": "Semprot preventif sebelum musim hujan"
+        }
+      ],
+      "solusiTradisional": [
+        "Campurkan 1 sendok makan baking soda dengan 1 liter air dan beberapa tetes sabun cair, semprotkan setiap minggu",
+        "Gunakan larutan susu (1 bagian susu : 9 bagian air) sebagai fungisida alami",
+        "Buat kompos teh dari kompost matang dan semprotkan sebagai penguat imunitas tanaman",
+        "Tanam bawang putih di sekitar pohon apel sebagai fungisida alami",
+        "Gunakan mulsa organik untuk mencegah percikan tanah ke daun"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Pengendalian Apple Scab",
+          "url": "https://www.youtube.com/results?search_query=apple+scab+disease+control",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Management of Apple Scab",
+          "url": "https://scholar.google.com/scholar?q=apple+scab+venturia+inaequalis+management",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "nama": "Black Rot (Busuk Hitam Apel)",
+      "tanaman": "Apel",
+      "gambar": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6",
+      "detail": "Black rot atau busuk hitam adalah penyakit jamur yang disebabkan oleh Botryosphaeria obtusa. Penyakit ini dapat menyerang daun, ranting, dan terutama buah apel. Pada buah, penyakit ini menyebabkan pembusukan yang dimulai dari ujung bunga dan menyebar ke seluruh buah, menghasilkan mumi buah yang mengering di pohon.",
+      "gejala": [
+        "Bercak ungu kemerahan pada daun dengan tepi coklat",
+        "Bercak membesar dengan pola konsentris seperti mata katak",
+        "Buah menunjukkan bercak coklat yang membesar dengan cepat",
+        "Buah membusuk menjadi hitam dan mengkerut seperti mumi",
+        "Kanker pada ranting dan cabang pohon"
+      ],
+      "pencegahan": [
+        "Potong dan buang ranting yang terinfeksi saat pemangkasan",
+        "Buang buah mumi yang masih menggantung di pohon",
+        "Bersihkan semua sisa tanaman yang terinfeksi dari kebun",
+        "Lakukan pemangkasan untuk meningkatkan sirkulasi udara",
+        "Hindari luka mekanis pada pohon dan buah",
+        "Panen buah tepat waktu sebelum terlalu matang"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Topsin M 70 WP",
+          "bahanAktif": "Thiophanate-methyl 70%",
+          "dosis": "1-1.5 gram/liter air",
+          "cara": "Aplikasi saat bunga mekar hingga buah terbentuk"
+        },
+        {
+          "merk": "Bayleton 250 EC",
+          "bahanAktif": "Triadimenol 250 g/L",
+          "dosis": "0.5 ml/liter air",
+          "cara": "Semprot setiap 2 minggu sekali"
+        },
+        {
+          "merk": "Kocide 54 WDG",
+          "bahanAktif": "Tembaga hidroksida 54%",
+          "dosis": "2 gram/liter air",
+          "cara": "Aplikasi saat dorman dan awal musim"
+        }
+      ],
+      "solusiTradisional": [
+        "Semprotkan larutan tembaga sulfat dengan kapur (Bordeaux mixture) sebagai fungisida",
+        "Gunakan ekstrak daun mimba (neem) 5% yang disemprotkan rutin",
+        "Buat larutan bawang putih (200 gram bawang putih dihaluskan dalam 1 liter air) sebagai fungisida alami",
+        "Aplikasikan kompos berkualitas tinggi untuk meningkatkan kesehatan tanah",
+        "Tanam tanaman companion seperti nasturtium untuk mengusir hama"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Black Rot Disease Management",
+          "url": "https://www.youtube.com/results?search_query=apple+black+rot+disease",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Apple Black Rot Research",
+          "url": "https://scholar.google.com/scholar?q=botryosphaeria+obtusa+apple+black+rot",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nama": "Cedar Apple Rust (Karat Cedar Apel)",
+      "tanaman": "Apel",
+      "gambar": "https://images.unsplash.com/photo-1584006668293-d13ac4f9dd44",
+      "detail": "Cedar apple rust adalah penyakit jamur yang disebabkan oleh Gymnosporangium juniperi-virginianae. Penyakit ini unik karena memerlukan dua inang untuk menyelesaikan siklus hidupnya: pohon apel dan pohon cedar (juniper). Jamur menghasilkan bercak oranye mencolok pada daun apel dan struktur seperti jeli oranye pada cedar.",
+      "gejala": [
+        "Bercak kuning-oranye cerah pada daun bagian atas",
+        "Bintik-bintik hitam di tengah bercak oranye",
+        "Tonjolan seperti tanduk pada daun bagian bawah",
+        "Daun gugur prematur jika infeksi parah",
+        "Buah jarang terserang namun bisa ada bercak oranye",
+        "Pada cedar: gumpalan coklat yang menghasilkan jeli oranye saat basah"
+      ],
+      "pencegahan": [
+        "Tanam varietas apel yang resisten terhadap cedar rust",
+        "Hindari menanam pohon cedar dalam radius 300 meter dari apel",
+        "Buang pohon cedar liar di sekitar kebun apel",
+        "Lakukan pemangkasan untuk sirkulasi udara yang baik",
+        "Aplikasi fungisida preventif sebelum spora tersebar",
+        "Monitor cuaca karena penyakit aktif saat hujan dan lembab"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Folicur 250 EC",
+          "bahanAktif": "Tebuconazole 250 g/L",
+          "dosis": "0.5 ml/liter air",
+          "cara": "Aplikasi mulai saat tunas membuka hingga bunga gugur"
+        },
+        {
+          "merk": "Banner Maxx",
+          "bahanAktif": "Propiconazole 14.3%",
+          "dosis": "1 ml/liter air",
+          "cara": "Semprot setiap 10-14 hari saat periode infeksi"
+        },
+        {
+          "merk": "Dithane M-45",
+          "bahanAktif": "Mankozeb 80%",
+          "dosis": "2 gram/liter air",
+          "cara": "Protektan yang disemprotkan sejak awal musim"
+        }
+      ],
+      "solusiTradisional": [
+        "Semprotkan larutan baking soda (1 sdm/liter) dengan minyak hortikultura sebagai fungisida",
+        "Gunakan ekstrak ekor kuda (horsetail) yang kaya silika untuk memperkuat jaringan daun",
+        "Buat teh kompos aerobik dan semprotkan sebagai mikroorganisme menguntungkan",
+        "Aplikasikan mulsa jerami di bawah pohon untuk mencegah percikan spora",
+        "Tanam tanaman aromatik seperti lavender untuk meningkatkan biodiversitas"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Cedar Apple Rust Life Cycle",
+          "url": "https://www.youtube.com/results?search_query=cedar+apple+rust+disease+control",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Gymnosporangium Management",
+          "url": "https://scholar.google.com/scholar?q=cedar+apple+rust+gymnosporangium+control",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nama": "Apel Sehat",
+      "tanaman": "Apel",
+      "gambar": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2",
+      "detail": "Tanaman apel dalam kondisi sehat menunjukkan pertumbuhan yang optimal dengan daun hijau mengkilap, batang kokoh, dan buah berkualitas baik. Pohon apel yang sehat memiliki sistem akar yang kuat, bebas dari gejala penyakit, dan mampu menghasilkan buah dengan produktivitas tinggi. Perawatan rutin dan kondisi lingkungan yang tepat sangat penting untuk mempertahankan kesehatan tanaman.",
+      "gejala": [
+        "Daun berwarna hijau segar dan mengkilap",
+        "Tidak ada bercak, lubang, atau perubahan warna abnormal",
+        "Pertumbuhan tunas baru yang sehat dan kuat",
+        "Buah berkembang dengan normal tanpa cacat",
+        "Batang dan cabang kokoh tanpa luka atau kanker",
+        "Sistem perakaran yang baik dan tanaman vigor"
+      ],
+      "pencegahan": [
+        "Berikan pemupukan berimbang sesuai kebutuhan tanaman",
+        "Lakukan penyiraman yang cukup dan teratur",
+        "Pemangkasan rutin untuk bentuk dan kesehatan pohon",
+        "Monitoring hama dan penyakit secara berkala",
+        "Jaga kebersihan area sekitar pohon dari gulma",
+        "Aplikasi mulsa organik untuk menjaga kelembaban tanah",
+        "Pastikan drainase tanah baik untuk mencegah akar busuk"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "NPK Mutiara 16-16-16",
+          "bahanAktif": "Nitrogen, Fosfor, Kalium berimbang",
+          "dosis": "100-200 gram per pohon",
+          "cara": "Aplikasi setiap 3 bulan di sekitar tajuk pohon"
+        },
+        {
+          "merk": "Gandasil D",
+          "bahanAktif": "NPK + Mikro",
+          "dosis": "2 gram/liter air",
+          "cara": "Semprot daun setiap 2 minggu"
+        },
+        {
+          "merk": "Growmore",
+          "bahanAktif": "NPK 20-20-20",
+          "dosis": "1-2 gram/liter air",
+          "cara": "Kocor atau semprot untuk pertumbuhan optimal"
+        }
+      ],
+      "solusiTradisional": [
+        "Gunakan kompos matang sebagai pupuk organik 2-3 bulan sekali",
+        "Aplikasikan pupuk kandang yang sudah difermentasi di area perakaran",
+        "Buat pupuk cair organik (POC) dari fermentasi buah dan sayur",
+        "Tanam tanaman legum di sekitar pohon untuk fiksasi nitrogen",
+        "Mulsa dengan jerami atau serbuk gergaji untuk menjaga kelembaban",
+        "Gunakan vermikompos (kascing) untuk meningkatkan kesuburan tanah",
+        "Semprotkan larutan air kelapa sebagai suplemen pertumbuhan"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Cara Merawat Pohon Apel",
+          "url": "https://www.youtube.com/results?search_query=cara+merawat+pohon+apel",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Apple Tree Care and Cultivation",
+          "url": "https://scholar.google.com/scholar?q=apple+tree+cultivation+management",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nama": "Blueberry Sehat",
+      "tanaman": "Blueberry",
+      "gambar": "https://images.unsplash.com/photo-1498557850523-fd3d118b962e",
+      "detail": "Tanaman blueberry yang sehat memiliki daun hijau cerah dengan sedikit warna kemerahan pada pertumbuhan baru. Tanaman ini tumbuh dengan baik pada tanah asam (pH 4.5-5.5) dengan drainase sempurna. Blueberry sehat akan menghasilkan bunga putih atau merah muda yang berlimpah di musim semi dan buah biru berlilin di musim panas. Tanaman memerlukan perawatan khusus karena sistem akar yang dangkal dan sensitif.",
+      "gejala": [
+        "Daun berwarna hijau cerah hingga hijau tua yang sehat",
+        "Pertumbuhan tunas baru berwarna kemerahan (normal)",
+        "Bunga berkembang sempurna dan berbuah lebat",
+        "Buah berukuran seragam dengan lapisan lilin kebiruan",
+        "Tidak ada perubahan warna daun yang tidak normal",
+        "Cabang kuat dan tidak ada bagian yang mati"
+      ],
+      "pencegahan": [
+        "Jaga pH tanah tetap asam (4.5-5.5) dengan sulfur atau mulsa pinus",
+        "Berikan air yang cukup karena akar dangkal mudah kering",
+        "Gunakan mulsa organik tebal (10-15 cm) untuk menjaga kelembaban",
+        "Pemangkasan rutin untuk membuang cabang tua dan mati",
+        "Berikan pupuk khusus tanaman asam secara teratur",
+        "Lindungi buah dari burung dengan jaring",
+        "Pastikan drainase sempurna untuk mencegah akar busuk"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Ammonium Sulfate",
+          "bahanAktif": "Nitrogen 21% + Sulfur",
+          "dosis": "50 gram per tanaman dewasa",
+          "cara": "Aplikasi split 2-3 kali dari awal pertumbuhan"
+        },
+        {
+          "merk": "Vitabloom",
+          "bahanAktif": "NPK + Mikro khusus berbunga",
+          "dosis": "1 ml/liter air",
+          "cara": "Semprot saat fase pembungaan"
+        },
+        {
+          "merk": "KNO3 (Kalium Nitrat)",
+          "bahanAktif": "K2O 46%, N 13%",
+          "dosis": "1 gram/liter air",
+          "cara": "Kocor saat fase pembesaran buah"
+        }
+      ],
+      "solusiTradisional": [
+        "Gunakan mulsa kulit pinus atau serbuk gergaji untuk mengasamkan tanah",
+        "Aplikasikan kompos yang difermentasi dengan EM4 sebagai pupuk organik",
+        "Buat teh kompos dari daun pinus sebagai pupuk cair organik",
+        "Tambahkan sulfur pertanian untuk mempertahankan pH asam",
+        "Gunakan air bekas cucian beras (sudah difermentasi) sebagai pupuk alami",
+        "Tanam tanaman companion seperti azalea yang juga menyukai tanah asam",
+        "Mulsa tebal dengan jerami pinus atau daun pinus yang sudah lapuk"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Panduan Lengkap Budidaya Blueberry",
+          "url": "https://www.youtube.com/results?search_query=cara+menanam+blueberry",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Blueberry Production Guide",
+          "url": "https://scholar.google.com/scholar?q=blueberry+cultivation+acidic+soil",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nama": "Powdery Mildew Cherry (Embun Tepung Ceri)",
+      "tanaman": "Ceri",
+      "gambar": "https://images.unsplash.com/photo-1528821128474-27f963b062bf",
+      "detail": "Powdery mildew atau embun tepung pada ceri disebabkan oleh jamur Podosphaera clandestina. Penyakit ini mudah dikenali dari lapisan putih seperti bedak atau tepung yang menutupi daun, tunas muda, dan buah. Penyakit ini berkembang pesat pada kondisi hangat dan lembab, terutama pada cuaca berangin dengan kelembaban tinggi di malam hari. Dapat menyebabkan penurunan kualitas buah dan produksi.",
+      "gejala": [
+        "Lapisan putih seperti bedak pada permukaan daun",
+        "Tunas dan daun muda mengkerut dan terdistorsi",
+        "Daun menjadi kuning dan gugur prematur",
+        "Buah tertutup lapisan putih dan kualitas menurun",
+        "Pertumbuhan tanaman terhambat pada infeksi berat",
+        "Permukaan daun bagian bawah juga bisa tertutup jamur"
+      ],
+      "pencegahan": [
+        "Pilih varietas ceri yang resisten terhadap embun tepung",
+        "Tanam dengan jarak cukup untuk sirkulasi udara baik",
+        "Lakukan pemangkasan untuk mengurangi kelembaban",
+        "Hindari pemupukan nitrogen berlebihan yang membuat daun lunak",
+        "Siram di pagi hari agar tanaman kering sebelum malam",
+        "Buang dan musnahkan bagian tanaman yang terinfeksi",
+        "Aplikasi fungisida preventif sebelum gejala muncul"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Topas 100 EC",
+          "bahanAktif": "Penconazole 100 g/L",
+          "dosis": "0.5 ml/liter air",
+          "cara": "Semprot saat gejala awal dan ulangi setiap 7-10 hari"
+        },
+        {
+          "merk": "Sulphur 80 WP",
+          "bahanAktif": "Sulfur 80%",
+          "dosis": "2-3 gram/liter air",
+          "cara": "Aplikasi preventif setiap 7-14 hari"
+        },
+        {
+          "merk": "Karathane LC",
+          "bahanAktif": "Meptyldinocap",
+          "dosis": "1 ml/liter air",
+          "cara": "Semprot saat embun tepung mulai terlihat"
+        }
+      ],
+      "solusiTradisional": [
+        "Campurkan 1 sendok makan baking soda, 1 sendok makan minyak sayur, beberapa tetes sabun cair dalam 4 liter air, semprot setiap minggu",
+        "Gunakan larutan susu (1:9 dengan air) yang efektif melawan embun tepung",
+        "Semprotkan teh kompos aerobik sebagai mikroorganisme antagonis",
+        "Buat larutan bawang putih (10 siung dihaluskan dalam 1 liter air, diamkan 24 jam, saring dan semprot)",
+        "Tanam tanaman companion seperti chive atau bawang di sekitar ceri",
+        "Aplikasikan mulsa organik untuk mengatur kelembaban tanah"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Powdery Mildew Management on Cherry",
+          "url": "https://www.youtube.com/results?search_query=cherry+powdery+mildew+control",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Podosphaera Research",
+          "url": "https://scholar.google.com/scholar?q=powdery+mildew+cherry+podosphaera",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nama": "Ceri Sehat",
+      "tanaman": "Ceri",
+      "gambar": "https://images.unsplash.com/photo-1591271300850-c0a6b19d4d1b",
+      "detail": "Pohon ceri yang sehat menampilkan daun hijau mengkilap, pertumbuhan vigor, dan bunga yang melimpah di musim semi. Tanaman ceri memerlukan periode dingin (chilling hours) untuk berbunga dengan baik dan menghasilkan buah berkualitas. Pohon yang sehat memiliki batang kokoh, bebas dari penyakit, dan mampu menghasilkan buah manis dengan produktivitas optimal. Perawatan yang tepat termasuk pemangkasan, pemupukan, dan irigasi yang sesuai.",
+      "gejala": [
+        "Daun berwarna hijau tua mengkilap dan sehat",
+        "Pembungaan melimpah di musim semi",
+        "Buah berkembang sempurna dengan warna cerah",
+        "Batang dan cabang kokoh tanpa luka atau gummosis",
+        "Pertumbuhan tunas baru yang sehat setiap musim",
+        "Tidak ada tanda-tanda stress atau kekurangan nutrisi"
+      ],
+      "pencegahan": [
+        "Berikan pupuk berimbang sesuai fase pertumbuhan",
+        "Lakukan pemangkasan setelah panen untuk bentuk dan kesehatan",
+        "Pastikan drainase tanah baik karena ceri tidak tahan genangan",
+        "Lakukan penjarangan buah untuk ukuran optimal",
+        "Lindungi buah dari burung dengan jaring",
+        "Monitor hama seperti lalat buah dan kutu daun",
+        "Berikan mulsa organik untuk menjaga kelembaban akar"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "NPK Phonska 15-15-15",
+          "bahanAktif": "Nitrogen, Fosfor, Kalium berimbang",
+          "dosis": "150-250 gram per pohon",
+          "cara": "Aplikasi 2-3 kali setahun saat awal pertumbuhan, pembungaan, dan pembuahan"
+        },
+        {
+          "merk": "KCl (Kalium Klorida)",
+          "bahanAktif": "K2O 60%",
+          "dosis": "100 gram per pohon",
+          "cara": "Aplikasi saat fase pembesaran buah"
+        },
+        {
+          "merk": "Calcium Nitrate",
+          "bahanAktif": "Ca 19%, N 15.5%",
+          "dosis": "2 gram/liter air",
+          "cara": "Kocor atau semprot untuk mencegah buah pecah"
+        }
+      ],
+      "solusiTradisional": [
+        "Gunakan kompos matang 10-20 kg per pohon setiap 6 bulan",
+        "Aplikasikan pupuk kandang sapi atau kambing yang sudah difermentasi",
+        "Buat POC dari buah-buahan fermentasi sebagai pupuk lengkap",
+        "Mulsa dengan jerami atau sekam padi untuk menjaga kelembaban",
+        "Tanam legum penutup tanah untuk menambah nitrogen",
+        "Gunakan kascing (vermikompos) untuk meningkatkan aktivitas mikroba tanah",
+        "Semprotkan air kelapa dan MOL (Mikro Organisme Lokal) sebagai stimulan"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Cara Budidaya Pohon Ceri",
+          "url": "https://www.youtube.com/results?search_query=cara+menanam+pohon+ceri",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Cherry Tree Cultivation",
+          "url": "https://scholar.google.com/scholar?q=cherry+tree+cultivation+management",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nama": "Cercospora Leaf Spot / Gray Leaf Spot Jagung",
+      "tanaman": "Jagung",
+      "gambar": "https://images.unsplash.com/photo-1605665631315-431c60419936",
+      "detail": "Cercospora leaf spot atau gray leaf spot adalah penyakit jamur pada jagung yang disebabkan oleh Cercospora zeae-maydis. Penyakit ini menyebabkan bercak persegi panjang berwarna abu-abu hingga coklat pada daun yang sejajar dengan tulang daun. Infeksi berat dapat menyebabkan kematian daun bagian bawah terlebih dahulu dan menyebar ke atas, mengurangi area fotosintesis dan berpotensi menurunkan hasil hingga 50%.",
+      "gejala": [
+        "Bercak kecil persegi panjang berwarna abu-abu hingga coklat",
+        "Bercak sejajar dengan tulang daun (berbeda dari penyakit lain)",
+        "Bercak membesar dan bergabung membentuk area nekrotik luas",
+        "Daun bagian bawah terserang lebih dulu",
+        "Daun mengering dan mati prematur",
+        "Tongkol kecil dan hasil menurun drastis"
+      ],
+      "pencegahan": [
+        "Gunakan varietas jagung yang resisten terhadap gray leaf spot",
+        "Rotasi tanaman dengan tanaman non-sereal minimal 2 tahun",
+        "Bajak dan tanam sisa tanaman untuk mengurangi inokulum",
+        "Jaga jarak tanam yang cukup (70-75 cm antar baris)",
+        "Hindari tanam terlalu rapat untuk sirkulasi udara baik",
+        "Aplikasi fungisida preventif saat kondisi lembab berkepanjangan",
+        "Pemupukan berimbang agar tanaman tidak terlalu subur"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Nativo 75 WG",
+          "bahanAktif": "Tebuconazole 50% + Trifloxystrobin 25%",
+          "dosis": "0.5 gram/liter air",
+          "cara": "Semprot saat gejala awal, maksimal 3 kali per musim"
+        },
+        {
+          "merk": "Bion 500 WG",
+          "bahanAktif": "Acibenzolar-S-methyl 50%",
+          "dosis": "0.2 gram/liter air",
+          "cara": "Aplikasi preventif sebagai penginduksi ketahanan"
+        },
+        {
+          "merk": "Dithane M-45",
+          "bahanAktif": "Mankozeb 80%",
+          "dosis": "2 gram/liter air",
+          "cara": "Semprot preventif setiap 7-10 hari saat cuaca lembab"
+        }
+      ],
+      "solusiTradisional": [
+        "Aplikasikan Trichoderma sp. pada benih dan tanah sebagai agen biokontrol",
+        "Gunakan PGPR (Plant Growth Promoting Rhizobacteria) untuk meningkatkan ketahanan tanaman",
+        "Semprot MOL (Mikro Organisme Lokal) yang mengandung bakteri antagonis",
+        "Tanam jagung dengan sistem tumpang sari kacang-kacangan",
+        "Mulsa dengan jerami untuk mencegah percikan tanah ke daun",
+        "Buat kompos dari sisa tanaman yang sehat untuk pupuk organik",
+        "Rotasi dengan tanaman kacang-kacangan untuk memperbaiki struktur tanah"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Gray Leaf Spot Management Jagung",
+          "url": "https://www.youtube.com/results?search_query=gray+leaf+spot+corn+management",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Cercospora Maize Disease",
+          "url": "https://scholar.google.com/scholar?q=cercospora+zeae+maydis+gray+leaf+spot",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nama": "Common Rust Jagung (Karat Umum)",
+      "tanaman": "Jagung",
+      "gambar": "https://images.unsplash.com/photo-1595855759920-86a87d962907",
+      "detail": "Common rust atau karat umum pada jagung disebabkan oleh jamur Puccinia sorghi. Penyakit ini ditandai dengan pustula kecil berwarna coklat kemerahan yang tersebar di kedua permukaan daun. Pustula ini mengandung spora jamur yang mudah tersebar oleh angin. Meskipun umumnya tidak separah penyakit jagung lainnya, infeksi berat dapat mengurangi area fotosintesis dan menurunkan hasil panen hingga 30%.",
+      "gejala": [
+        "Pustula kecil bulat berwarna coklat kemerahan pada daun",
+        "Pustula muncul di kedua sisi daun secara acak",
+        "Spora berwarna coklat emas mudah rontok saat disentuh",
+        "Pada infeksi berat, daun menguning dan mengering",
+        "Pustula juga bisa muncul pada kelobot dan batang",
+        "Gejala lebih parah pada tanaman stress atau kekurangan nutrisi"
+      ],
+      "pencegahan": [
+        "Tanam varietas jagung yang resisten terhadap common rust",
+        "Tanam jagung pada waktu yang optimal (hindari musim terlalu lembab)",
+        "Berikan jarak tanam cukup untuk mengurangi kelembaban",
+        "Pemupukan nitrogen yang cukup untuk tanaman yang sehat",
+        "Monitoring rutin dan aplikasi fungisida saat diperlukan",
+        "Rotasi tanaman dengan tanaman non-sereal",
+        "Hindari stres air dengan irigasi yang tepat"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Tilt 250 EC",
+          "bahanAktif": "Propiconazole 250 g/L",
+          "dosis": "0.5 ml/liter air",
+          "cara": "Semprot saat pustula pertama muncul"
+        },
+        {
+          "merk": "Amistar Top 325 SC",
+          "bahanAktif": "Azoxystrobin 200 g/L + Difenoconazole 125 g/L",
+          "dosis": "1 ml/liter air",
+          "cara": "Aplikasi maksimal 2 kali dengan interval 14 hari"
+        },
+        {
+          "merk": "Score 250 EC",
+          "bahanAktif": "Difenoconazole 250 g/L",
+          "dosis": "0.5 ml/liter air",
+          "cara": "Semprot preventif atau saat gejala awal"
+        }
+      ],
+      "solusiTradisional": [
+        "Semprotkan larutan bawang putih dan cabai sebagai fungisida nabati",
+        "Aplikasikan Bacillus subtilis sebagai agen hayati pengendali",
+        "Gunakan ekstrak daun mimba (neem) 3-5% untuk pengendalian",
+        "Semprot pupuk hayati yang mengandung mikroba antagonis",
+        "Tanam jagung dengan pola tanam yang tidak terlalu rapat",
+        "Aplikasi kompos berkualitas untuk meningkatkan imunitas tanaman",
+        "Gunakan mulsa jerami untuk mengurangi kelembaban di sekitar tanaman"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Pengendalian Karat Jagung",
+          "url": "https://www.youtube.com/results?search_query=common+rust+corn+control",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Puccinia Sorghi Management",
+          "url": "https://scholar.google.com/scholar?q=puccinia+sorghi+common+rust+corn",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nama": "Northern Leaf Blight Jagung (Hawar Daun Utara)",
+      "tanaman": "Jagung",
+      "gambar": "https://images.unsplash.com/photo-1603909443961-74932e2464e1",
+      "detail": "Northern Leaf Blight (NLB) atau hawar daun utara adalah penyakit jagung yang disebabkan oleh jamur Exserohilum turcicum (Setosphaeria turcica). Penyakit ini ditandai dengan bercak memanjang berbentuk cerutu atau elips berwarna abu-abu hingga coklat kekuningan yang berkembang sejajar dengan tulang daun. NLB adalah salah satu penyakit paling merusak pada jagung dan dapat menyebabkan kehilangan hasil hingga 70% pada varietas yang rentan.",
+      "gejala": [
+        "Bercak memanjang berbentuk cerutu (2-15 cm) berwarna abu-abu hijau",
+        "Bercak berkembang sejajar dengan tulang daun",
+        "Warna bercak berubah menjadi coklat tan saat tua",
+        "Bercak dimulai dari daun bagian bawah dan menyebar ke atas",
+        "Daun mengering dan mati prematur saat infeksi berat",
+        "Tongkol kecil dan pengisian biji tidak sempurna"
+      ],
+      "pencegahan": [
+        "Gunakan varietas hibrida yang resisten terhadap NLB",
+        "Rotasi tanaman minimal 2 tahun dengan tanaman non-jagung",
+        "Pengelolaan sisa tanaman dengan cara dibajak dalam atau dibakar",
+        "Tanam dengan jarak yang cukup untuk sirkulasi udara",
+        "Pemupukan berimbang terutama kalium untuk ketahanan",
+        "Aplikasi fungisida preventif saat kondisi mendukung penyakit",
+        "Tanam pada waktu yang tepat untuk menghindari periode lembab"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Serenade ASO",
+          "bahanAktif": "Bacillus subtilis QST 713",
+          "dosis": "2-3 ml/liter air",
+          "cara": "Aplikasi biologis preventif sejak awal pertumbuhan"
+        },
+        {
+          "merk": "Nativo 75 WG",
+          "bahanAktif": "Tebuconazole 50% + Trifloxystrobin 25%",
+          "dosis": "0.5 gram/liter air",
+          "cara": "Semprot saat gejala awal muncul"
+        },
+        {
+          "merk": "Acrobat MZ 69 WP",
+          "bahanAktif": "Dimethomorph 9% + Mancozeb 60%",
+          "dosis": "2 gram/liter air",
+          "cara": "Aplikasi preventif setiap 7-10 hari"
+        }
+      ],
+      "solusiTradisional": [
+        "Aplikasikan Trichoderma harzianum pada benih dan areal penanaman",
+        "Gunakan pupuk kompos yang diperkaya dengan mikroba antagonis",
+        "Semprot PGPR (Plant Growth Promoting Rhizobacteria) untuk induksi ketahanan",
+        "Buat MOL dari rebung bambu yang kaya mikroorganisme",
+        "Tumpang sari dengan kacang tanah untuk diversifikasi",
+        "Mulsa dengan jerami untuk mencegah percikan spora dari tanah",
+        "Aplikasi abu sekam yang mengandung silika untuk memperkuat sel tanaman"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Northern Leaf Blight Control Strategy",
+          "url": "https://www.youtube.com/results?search_query=northern+leaf+blight+corn+control",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Exserohilum Turcicum Research",
+          "url": "https://scholar.google.com/scholar?q=northern+leaf+blight+exserohilum+turcicum",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "nama": "Jagung Sehat",
+      "tanaman": "Jagung",
+      "gambar": "https://images.unsplash.com/photo-1551754655-cd27e38d2076",
+      "detail": "Tanaman jagung yang sehat menampilkan daun hijau segar yang tegak, batang kokoh, dan tongkol yang berkembang dengan baik. Jagung sehat memiliki sistem perakaran yang kuat, bebas dari penyakit dan hama, serta mampu menghasilkan produksi optimal. Tanaman jagung memerlukan sinar matahari penuh, tanah gembur dengan drainase baik, dan pemupukan yang cukup terutama nitrogen untuk pertumbuhan vegetatif yang maksimal.",
+      "gejala": [
+        "Daun berwarna hijau segar tanpa bercak atau garis abnormal",
+        "Batang kokoh dan tegak dengan diameter seragam",
+        "Pertumbuhan tinggi normal sesuai varietas (1.5-3 meter)",
+        "Tongkol berkembang penuh dengan biji yang terisi sempurna",
+        "Rambut jagung berwarna kuning kecoklatan saat matang",
+        "Tidak ada tanda-tanda kekurangan nutrisi atau serangan hama"
+      ],
+      "pencegahan": [
+        "Pilih benih berkualitas dari varietas unggul atau hibrida",
+        "Persiapan lahan dengan pengolahan tanah yang baik",
+        "Berikan pupuk dasar sebelum tanam (organik + NPK)",
+        "Jaga jarak tanam optimal (70 x 25 cm atau sesuai varietas)",
+        "Penyiangan gulma secara rutin terutama 0-45 HST",
+        "Irigasi yang cukup terutama saat pembungaan dan pengisian biji",
+        "Monitoring hama seperti penggerek batang dan belalang"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Urea",
+          "bahanAktif": "Nitrogen 46%",
+          "dosis": "300-400 kg/ha (2 kali aplikasi)",
+          "cara": "1/3 saat tanam, 2/3 saat umur 30-35 hari"
+        },
+        {
+          "merk": "NPK Phonska 15-15-15",
+          "bahanAktif": "N 15%, P2O5 15%, K2O 15%",
+          "dosis": "300-350 kg/ha",
+          "cara": "Aplikasi saat tanam sebagai pupuk dasar"
+        },
+        {
+          "merk": "KCl (Kalium Klorida)",
+          "bahanAktif": "K2O 60%",
+          "dosis": "100-150 kg/ha",
+          "cara": "Aplikasi saat umur 40-45 hari (fase generatif)"
+        }
+      ],
+      "solusiTradisional": [
+        "Aplikasikan pupuk kandang 2-3 ton/ha sebagai pupuk dasar",
+        "Gunakan kompos matang 5 ton/ha untuk memperbaiki struktur tanah",
+        "Buat POC dari urine ternak yang difermentasi untuk pupuk cair",
+        "Tanam kacang-kacangan sebagai tanaman sela untuk fiksasi nitrogen",
+        "Aplikasi Azotobacter dan Azospirillum untuk penambat nitrogen",
+        "Gunakan abu sekam atau abu kayu sebagai sumber kalium organik",
+        "Mulsa dengan jerami untuk menjaga kelembaban dan menekan gulma",
+        "Semprot MOL (Mikro Organisme Lokal) dari rebung bambu setiap 2 minggu"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Panduan Lengkap Budidaya Jagung",
+          "url": "https://www.youtube.com/results?search_query=cara+budidaya+jagung+modern",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Corn Production Management",
+          "url": "https://scholar.google.com/scholar?q=maize+corn+production+management+best+practices",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "nama": "Black Rot Anggur (Busuk Hitam)",
+      "tanaman": "Anggur",
+      "gambar": "https://images.unsplash.com/photo-1579737190001-c89b4f2c0021",
+      "detail": "Black Rot adalah penyakit jamur yang sangat merusak pada tanaman anggur, disebabkan oleh *Guignardia bidwellii*. Penyakit ini menyerang semua bagian hijau tanaman (daun, batang, buah). Gejala yang paling khas adalah bercak hitam kecil dan mengkerut pada buah yang akhirnya menjadi **mumi buah** yang keras dan hitam. Infeksi parah dapat menghancurkan seluruh hasil panen.",
+      "gejala": [
+        "Bercak kecil, bulat, berwarna coklat kemerahan pada daun",
+        "Bercak pada daun berkembang menjadi lesi coklat tua dengan tepi hitam dan titik-titik hitam (piknidia) di tengah",
+        "Buah menunjukkan bintik putih kecil yang dengan cepat membesar menjadi busuk coklat",
+        "Buah yang busuk mengering, menyusut, dan mengerut menjadi 'mumi' yang keras dan hitam",
+        "Lesi elips pada sulur dan tangkai buah"
+      ],
+      "pencegahan": [
+        "Buang dan musnahkan buah mumi yang masih menempel atau jatuh ke tanah",
+        "Pemangkasan sisa-sisa sulur yang terinfeksi pada musim dingin",
+        "Terapkan mulsa untuk mencegah percikan spora dari tanah",
+        "Jaga sirkulasi udara yang baik dengan pemangkasan yang tepat dan pemasangan teralis",
+        "Tanam varietas yang relatif resisten terhadap Black Rot",
+        "Aplikasi fungisida protektif pada tunas baru dan sebelum hujan"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Mancozeb 80 WP",
+          "bahanAktif": "Mankozeb 80%",
+          "dosis": "2-3 gram/liter air",
+          "cara": "Aplikasi pertama saat tunas 1-2 inci, ulangi setiap 7-10 hari hingga buah terbentuk"
+        },
+        {
+          "merk": "Abound Flowable Fungicide",
+          "bahanAktif": "Azoxystrobin",
+          "dosis": "0.7 ml/liter air",
+          "cara": "Semprot preventif atau saat gejala awal muncul"
+        },
+        {
+          "merk": "Captan 50 WP",
+          "bahanAktif": "Captan 50%",
+          "dosis": "2 gram/liter air",
+          "cara": "Fungisida kontak yang diaplikasikan sejak fase pra-bunga"
+        }
+      ],
+      "solusiTradisional": [
+        "Gunakan larutan tembaga sulfat (Bordeaux mixture) sebagai fungisida kontak",
+        "Semprotkan larutan baking soda (1 sdm/4 liter air + sabun cair) secara rutin",
+        "Buang dan kubur daun dan buah yang terinfeksi secara teratur",
+        "Tanam bawang putih di sekitar tanaman anggur",
+        "Aplikasikan teh kompos yang kaya mikroorganisme menguntungkan"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Grape Black Rot Management",
+          "url": "https://www.youtube.com/results?search_query=grape+black+rot+control",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Guignardia bidwellii Research",
+          "url": "https://scholar.google.com/scholar?q=guignardia+bidwellii+black+rot+grape",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "nama": "Esca (Black Measles) Anggur",
+      "tanaman": "Anggur",
+      "gambar": "https://images.unsplash.com/photo-1590487042858-450f682496a7",
+      "detail": "Esca atau *Black Measles* adalah penyakit kompleks yang menyerang kayu anggur dewasa, disebabkan oleh gabungan beberapa jamur kayu (terutama *Phaeomoniella chlamydospora* dan *Phaeoacremonium minimum*). Penyakit ini menyebabkan pembusukan kayu di bagian dalam (nekrosis) yang mengganggu transportasi air dan nutrisi, yang menyebabkan gejala akut pada daun dan buah. Sering disebut 'campak hitam' karena bercak kecil pada buahnya. ",
+      "gejala": [
+        "Pada daun: Garis atau bercak klorotik (kuning) di antara tulang daun (*striping*) yang kemudian menjadi nekrotik (coklat kemerahan)",
+        "Gejala akut: Seluruh daun tiba-tiba layu dan mengering dalam beberapa hari ('apoplexy')",
+        "Pada buah: Bintik-bintik kecil berwarna gelap atau ungu ('campak hitam')",
+        "Pada kayu: Pembusukan putih, lembut, dan spongy di bagian batang atau sulur lama",
+        "Pertumbuhan sulur baru terhambat dan lemah"
+      ],
+      "pencegahan": [
+        "Lakukan pemangkasan saat cuaca kering dan hindari pemangkasan saat hujan",
+        "Lindungi luka pemangkasan dengan fungisida atau pasta pelindung luka",
+        "Buang cabang dan batang yang terinfeksi Esca dengan memotong jauh di bawah gejala",
+        "Gunakan teknik *Double Pruning* (pemangkasan ganda) untuk membuang mata yang terinfeksi",
+        "Sanitasi alat pemangkasan secara teratur (misalnya dengan alkohol atau pemutih)"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Fosetyl-Aluminium (Aliette)",
+          "bahanAktif": "Fosetyl-Aluminium",
+          "dosis": "2.5 gram/liter air",
+          "cara": "Aplikasi semprot atau kocor untuk meningkatkan ketahanan sistemik tanaman"
+        },
+        {
+          "merk": "Tembaga Hidroksida (Kocide)",
+          "bahanAktif": "Tembaga Hidroksida",
+          "dosis": "2 gram/liter air",
+          "cara": "Semprot pada luka pemangkasan saat dorman untuk disinfeksi"
+        },
+        {
+          "merk": "Thiophanate-methyl (Topsin)",
+          "bahanAktif": "Thiophanate-methyl",
+          "dosis": "1 gram/liter air",
+          "cara": "Aplikasi saat dorman atau setelah pemangkasan berat"
+        }
+      ],
+      "solusiTradisional": [
+        "Aplikasikan *Trichoderma harzianum* pada luka pemangkasan sebagai agen biokontrol",
+        "Gunakan campuran air perasan bawang putih dan air untuk disinfeksi luka",
+        "Bakar atau buang semua kayu yang terinfeksi jauh dari kebun",
+        "Aplikasikan pupuk kompos yang kaya unsur hara untuk meningkatkan kesehatan pohon",
+        "Gunakan biofungisida berbasis *Bacillus subtilis* pada luka potong"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Grapevine Trunk Disease Esca",
+          "url": "https://www.youtube.com/results?search_query=grapevine+esca+black+measles",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Phaeoacremonium & Phaeomoniella",
+          "url": "https://scholar.google.com/scholar?q=esca+phaeoacremonium+chlamydospora+management",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "nama": "Leaf Blight (Isariopsis Leaf Spot) Anggur",
+      "tanaman": "Anggur",
+      "gambar": "https://images.unsplash.com/photo-1620242270030-745d1d607218",
+      "detail": "Leaf Blight atau *Isariopsis Leaf Spot* adalah penyakit jamur yang disebabkan oleh *Isariopsis clavispora*. Penyakit ini terutama menyerang daun, menghasilkan bercak-bercak coklat kehitaman yang tidak teratur, seringkali dengan pusat abu-abu atau putih. Penyakit ini dapat menyebabkan daun gugur prematur, mengurangi fotosintesis, dan melemahkan tanaman, meskipun umumnya kurang merusak dibandingkan Black Rot atau Downy Mildew.",
+      "gejala": [
+        "Bercak kecil berbentuk tidak teratur, berwarna coklat kemerahan hingga hitam pada permukaan daun",
+        "Bercak seringkali memiliki pusat abu-abu atau putih seiring bertambahnya usia",
+        "Pada permukaan daun bagian bawah, mungkin terlihat pertumbuhan jamur berwarna hitam keabu-abuan",
+        "Daun menguning dan gugur sebelum waktunya, dimulai dari daun tua",
+        "Lesi dapat muncul pada tangkai daun dan sulur, meskipun jarang pada buah"
+      ],
+      "pencegahan": [
+        "Terapkan praktik sanitasi yang baik (buang daun yang jatuh)",
+        "Tingkatkan sirkulasi udara dengan pemangkasan yang efektif dan penataan teralis",
+        "Hindari penyiraman dari atas yang membasahi daun dalam waktu lama",
+        "Aplikasikan fungisida preventif pada fase pertumbuhan tunas hingga pasca panen",
+        "Jaga jarak tanam yang cukup"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Dithane M-45",
+          "bahanAktif": "Mankozeb 80%",
+          "dosis": "2 gram/liter air",
+          "cara": "Semprot setiap 10-14 hari saat musim hujan atau kondisi lembab"
+        },
+        {
+          "merk": "Copper Oxychloride 50 WP",
+          "bahanAktif": "Tembaga Oksiklorida",
+          "dosis": "3 gram/liter air",
+          "cara": "Aplikasi kontak setelah pemangkasan dan awal pertumbuhan"
+        },
+        {
+          "merk": "Bavistin 50 WP",
+          "bahanAktif": "Carbendazim 50%",
+          "dosis": "1 gram/liter air",
+          "cara": "Semprot sistemik saat gejala muncul, dengan rotasi fungisida"
+        }
+      ],
+      "solusiTradisional": [
+        "Semprotkan larutan cuka sari apel yang diencerkan (1:30 dengan air)",
+        "Gunakan larutan kalium bikarbonat (potassium bicarbonate) sebagai fungisida",
+        "Aplikasikan minyak mimba (neem oil) yang dicampur dengan sabun",
+        "Tanam basil atau mint di sekitar anggur untuk memecah siklus patogen",
+        "Gunakan mulsa jerami untuk mencegah percikan jamur dari tanah"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Isariopsis Leaf Spot Control",
+          "url": "https://www.youtube.com/results?search_query=grape+isariopsis+leaf+spot+management",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Isariopsis Clavispora Management",
+          "url": "https://scholar.google.com/scholar?q=isariopsis+clavispora+grape+control",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "nama": "Anggur Sehat",
+      "tanaman": "Anggur",
+      "gambar": "https://images.unsplash.com/photo-1579548123284-c5a5e3a388f5",
+      "detail": "Tanaman anggur yang sehat menunjukkan daun hijau penuh tanpa bercak atau nekrosis, sulur yang kuat dan kokoh, serta produksi buah yang seragam. Anggur sehat memerlukan sinar matahari penuh, tanah dengan drainase yang sangat baik, dan pemangkasan tahunan yang tepat untuk mengoptimalkan hasil panen. Perawatan yang tepat juga termasuk irigasi teratur dan pemupukan yang seimbang sesuai dengan fase pertumbuhan.",
+      "gejala": [
+        "Daun berwarna hijau tua, rata, dan bebas dari bercak atau lesi",
+        "Sulur muda dan batang sehat, kuat, dan tidak pecah-pecah",
+        "Buah terbentuk dalam tandan yang rapat dan seragam dengan warna alami yang cerah",
+        "Pertumbuhan tunas baru yang vigor dan cepat",
+        "Tidak ada tanda-tanda kekurangan nutrisi (seperti klorosis) atau serangan hama",
+        "Sistem perakaran yang kuat menahan tanaman dengan baik"
+      ],
+      "pencegahan": [
+        "Pemangkasan rutin untuk menjaga bentuk kanopi dan sirkulasi udara",
+        "Pemberian pupuk berimbang yang kaya Kalium (K) untuk kualitas buah",
+        "Irigasi tetes untuk menghindari daun basah dalam waktu lama",
+        "Pemasangan teralis yang tepat untuk mendukung sulur dan buah",
+        "Monitoring hama (kutu daun, thrips) dan penyakit secara berkala",
+        "Sanitasi kebun dengan membuang daun dan sulur yang sudah mati",
+        "Lakukan penjarangan buah jika tandan terlalu padat"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "NPK Grower 15-9-20",
+          "bahanAktif": "Nitrogen, Fosfor, Kalium (tinggi K)",
+          "dosis": "100-200 gram per tanaman",
+          "cara": "Aplikasi saat fase pembuahan hingga panen"
+        },
+        {
+          "merk": "Gandasil B",
+          "bahanAktif": "NPK + Mikro (tinggi Fosfor dan Kalium)",
+          "dosis": "2 gram/liter air",
+          "cara": "Semprot daun saat fase pembungaan dan pembuahan"
+        },
+        {
+          "merk": "KNO3 (Kalium Nitrat)",
+          "bahanAktif": "K2O 46%, N 13%",
+          "dosis": "1-2 gram/liter air",
+          "cara": "Kocor atau semprot untuk meningkatkan kemanisan buah"
+        }
+      ],
+      "solusiTradisional": [
+        "Aplikasikan kompos matang dan pupuk kandang setiap tahun",
+        "Gunakan mulsa organik (serutan kayu, jerami) untuk menjaga kelembaban dan suhu akar",
+        "Buat POC (Pupuk Organik Cair) dari air cucian beras dan molase",
+        "Tanam tanaman penutup tanah (cover crop) seperti legum untuk menambah nitrogen",
+        "Gunakan abu dapur (kaya Kalium) yang ditaburkan di sekitar pangkal pohon"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Panduan Budidaya Anggur",
+          "url": "https://www.youtube.com/results?search_query=cara+menanam+anggur",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Grapevine Health and Nutrition",
+          "url": "https://scholar.google.com/scholar?q=grape+vine+cultivation+and+health+management",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "nama": "Downy Mildew Anggur (Embun Tepung Palsu)",
+      "tanaman": "Anggur",
+      "gambar": "https://images.unsplash.com/photo-1629803125678-83141f1295b2",
+      "detail": "Downy Mildew adalah penyakit yang disebabkan oleh oomycete (*Plasmopara viticola*), bukan jamur sejati. Penyakit ini menyerang daun, sulur, dan buah. Gejala khas pada daun adalah bercak **kuning minyak (oil spot)** di permukaan atas yang pada kondisi lembab menghasilkan pertumbuhan jamur berwarna putih kapas di permukaan bawah. Infeksi dapat menyebabkan defoliasi parah dan buah busuk.",
+      "gejala": [
+        "Bercak tidak beraturan, berwarna kuning cerah seperti tetesan minyak di permukaan atas daun",
+        "Pada permukaan bawah daun, muncul pertumbuhan seperti jamur/kapas berwarna putih saat cuaca lembab",
+        "Daun yang terinfeksi menjadi coklat, mengering, dan gugur prematur",
+        "Bunga dan buah muda berubah warna menjadi coklat, mengeras, dan mati",
+        "Sulur muda menunjukkan bercak kehitaman dan membengkok"
+      ],
+      "pencegahan": [
+        "Tingkatkan sirkulasi udara dengan pemangkasan pada kanopi yang padat",
+        "Hindari kontak air pada daun, terutama di malam hari",
+        "Sanitasi kebun dengan membuang daun dan buah yang terinfeksi",
+        "Aplikasi fungisida kontak (Tembaga) secara preventif pada awal musim",
+        "Tanam varietas yang tahan terhadap Downy Mildew",
+        "Jaga drainase tanah agar tidak tergenang"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Ridomil Gold MZ 68 WP",
+          "bahanAktif": "Mefenoxam 4% + Mankozeb 64%",
+          "dosis": "2.5 gram/liter air",
+          "cara": "Fungisida sistemik dan kontak, aplikasi saat awal musim hujan"
+        },
+        {
+          "merk": "Kocide 54 WDG",
+          "bahanAktif": "Tembaga hidroksida 54%",
+          "dosis": "2 gram/liter air",
+          "cara": "Aplikasi kontak protektif setiap 7-10 hari"
+        },
+        {
+          "merk": "Acrobat MZ 69 WP",
+          "bahanAktif": "Dimethomorph 9% + Mancozeb 60%",
+          "dosis": "2 gram/liter air",
+          "cara": "Semprot preventif saat kelembaban tinggi"
+        }
+      ],
+      "solusiTradisional": [
+        "Gunakan campuran bubur Bordeaux (tembaga sulfat + kapur) sebagai protektan",
+        "Semprotkan ekstrak kulit bawang merah (mengandung sulfur alami)",
+        "Aplikasikan minyak mimba (neem oil) yang berfungsi sebagai anti-fungal ringan",
+        "Gunakan Bacillus subtilis yang telah diisolasi sebagai agen biokontrol",
+        "Lakukan penyiraman hanya di pagi hari dan di pangkal tanaman"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Grape Downy Mildew Control",
+          "url": "https://www.youtube.com/results?search_query=grape+downy+mildew+plasmopara+control",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Plasmopara viticola Management",
+          "url": "https://scholar.google.com/scholar?q=plasmopara+viticola+downy+mildew+grape",
+          "tipe": "Jurnal"
+        }
+      ]
+    },{
+      "id": 11,
+      "nama": "Black Rot Anggur (Busuk Hitam)",
+      "tanaman": "Anggur",
+      "gambar": "https://images.unsplash.com/photo-1579737190001-c89b4f2c0021",
+      "detail": "Black Rot adalah penyakit jamur yang sangat merusak pada tanaman anggur, disebabkan oleh *Guignardia bidwellii*. Penyakit ini menyerang semua bagian hijau tanaman (daun, batang, buah). Gejala yang paling khas adalah bercak hitam kecil dan mengkerut pada buah yang akhirnya menjadi **mumi buah** yang keras dan hitam. Infeksi parah dapat menghancurkan seluruh hasil panen.",
+      "gejala": [
+        "Bercak kecil, bulat, berwarna coklat kemerahan pada daun",
+        "Bercak pada daun berkembang menjadi lesi coklat tua dengan tepi hitam dan titik-titik hitam (piknidia) di tengah",
+        "Buah menunjukkan bintik putih kecil yang dengan cepat membesar menjadi busuk coklat",
+        "Buah yang busuk mengering, menyusut, dan mengerut menjadi 'mumi' yang keras dan hitam",
+        "Lesi elips pada sulur dan tangkai buah"
+      ],
+      "pencegahan": [
+        "Buang dan musnahkan buah mumi yang masih menempel atau jatuh ke tanah",
+        "Pemangkasan sisa-sisa sulur yang terinfeksi pada musim dingin",
+        "Terapkan mulsa untuk mencegah percikan spora dari tanah",
+        "Jaga sirkulasi udara yang baik dengan pemangkasan yang tepat dan pemasangan teralis",
+        "Tanam varietas yang relatif resisten terhadap Black Rot",
+        "Aplikasi fungisida protektif pada tunas baru dan sebelum hujan"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Mancozeb 80 WP",
+          "bahanAktif": "Mankozeb 80%",
+          "dosis": "2-3 gram/liter air",
+          "cara": "Aplikasi pertama saat tunas 1-2 inci, ulangi setiap 7-10 hari hingga buah terbentuk"
+        },
+        {
+          "merk": "Abound Flowable Fungicide",
+          "bahanAktif": "Azoxystrobin",
+          "dosis": "0.7 ml/liter air",
+          "cara": "Semprot preventif atau saat gejala awal muncul"
+        },
+        {
+          "merk": "Captan 50 WP",
+          "bahanAktif": "Captan 50%",
+          "dosis": "2 gram/liter air",
+          "cara": "Fungisida kontak yang diaplikasikan sejak fase pra-bunga"
+        }
+      ],
+      "solusiTradisional": [
+        "Gunakan larutan tembaga sulfat (Bordeaux mixture) sebagai fungisida kontak",
+        "Semprotkan larutan baking soda (1 sdm/4 liter air + sabun cair) secara rutin",
+        "Buang dan kubur daun dan buah yang terinfeksi secara teratur",
+        "Tanam bawang putih di sekitar tanaman anggur",
+        "Aplikasikan teh kompos yang kaya mikroorganisme menguntungkan"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Grape Black Rot Management",
+          "url": "https://www.youtube.com/results?search_query=grape+black+rot+control",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Guignardia bidwellii Research",
+          "url": "https://scholar.google.com/scholar?q=guignardia+bidwellii+black+rot+grape",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "nama": "Esca (Black Measles) Anggur",
+      "tanaman": "Anggur",
+      "gambar": "https://images.unsplash.com/photo-1590487042858-450f682496a7",
+      "detail": "Esca atau *Black Measles* adalah penyakit kompleks yang menyerang kayu anggur dewasa, disebabkan oleh gabungan beberapa jamur kayu (terutama *Phaeomoniella chlamydospora* dan *Phaeoacremonium minimum*). Penyakit ini menyebabkan pembusukan kayu di bagian dalam (nekrosis) yang mengganggu transportasi air dan nutrisi, yang menyebabkan gejala akut pada daun dan buah. Sering disebut 'campak hitam' karena bercak kecil pada buahnya. ",
+      "gejala": [
+        "Pada daun: Garis atau bercak klorotik (kuning) di antara tulang daun (*striping*) yang kemudian menjadi nekrotik (coklat kemerahan)",
+        "Gejala akut: Seluruh daun tiba-tiba layu dan mengering dalam beberapa hari ('apoplexy')",
+        "Pada buah: Bintik-bintik kecil berwarna gelap atau ungu ('campak hitam')",
+        "Pada kayu: Pembusukan putih, lembut, dan spongy di bagian batang atau sulur lama",
+        "Pertumbuhan sulur baru terhambat dan lemah"
+      ],
+      "pencegahan": [
+        "Lakukan pemangkasan saat cuaca kering dan hindari pemangkasan saat hujan",
+        "Lindungi luka pemangkasan dengan fungisida atau pasta pelindung luka",
+        "Buang cabang dan batang yang terinfeksi Esca dengan memotong jauh di bawah gejala",
+        "Gunakan teknik *Double Pruning* (pemangkasan ganda) untuk membuang mata yang terinfeksi",
+        "Sanitasi alat pemangkasan secara teratur (misalnya dengan alkohol atau pemutih)"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Fosetyl-Aluminium (Aliette)",
+          "bahanAktif": "Fosetyl-Aluminium",
+          "dosis": "2.5 gram/liter air",
+          "cara": "Aplikasi semprot atau kocor untuk meningkatkan ketahanan sistemik tanaman"
+        },
+        {
+          "merk": "Tembaga Hidroksida (Kocide)",
+          "bahanAktif": "Tembaga Hidroksida",
+          "dosis": "2 gram/liter air",
+          "cara": "Semprot pada luka pemangkasan saat dorman untuk disinfeksi"
+        },
+        {
+          "merk": "Thiophanate-methyl (Topsin)",
+          "bahanAktif": "Thiophanate-methyl",
+          "dosis": "1 gram/liter air",
+          "cara": "Aplikasi saat dorman atau setelah pemangkasan berat"
+        }
+      ],
+      "solusiTradisional": [
+        "Aplikasikan *Trichoderma harzianum* pada luka pemangkasan sebagai agen biokontrol",
+        "Gunakan campuran air perasan bawang putih dan air untuk disinfeksi luka",
+        "Bakar atau buang semua kayu yang terinfeksi jauh dari kebun",
+        "Aplikasikan pupuk kompos yang kaya unsur hara untuk meningkatkan kesehatan pohon",
+        "Gunakan biofungisida berbasis *Bacillus subtilis* pada luka potong"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Grapevine Trunk Disease Esca",
+          "url": "https://www.youtube.com/results?search_query=grapevine+esca+black+measles",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Phaeoacremonium & Phaeomoniella",
+          "url": "https://scholar.google.com/scholar?q=esca+phaeoacremonium+chlamydospora+management",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "nama": "Leaf Blight (Isariopsis Leaf Spot) Anggur",
+      "tanaman": "Anggur",
+      "gambar": "https://images.unsplash.com/photo-1620242270030-745d1d607218",
+      "detail": "Leaf Blight atau *Isariopsis Leaf Spot* adalah penyakit jamur yang disebabkan oleh *Isariopsis clavispora*. Penyakit ini terutama menyerang daun, menghasilkan bercak-bercak coklat kehitaman yang tidak teratur, seringkali dengan pusat abu-abu atau putih. Penyakit ini dapat menyebabkan daun gugur prematur, mengurangi fotosintesis, dan melemahkan tanaman, meskipun umumnya kurang merusak dibandingkan Black Rot atau Downy Mildew.",
+      "gejala": [
+        "Bercak kecil berbentuk tidak teratur, berwarna coklat kemerahan hingga hitam pada permukaan daun",
+        "Bercak seringkali memiliki pusat abu-abu atau putih seiring bertambahnya usia",
+        "Pada permukaan daun bagian bawah, mungkin terlihat pertumbuhan jamur berwarna hitam keabu-abuan",
+        "Daun menguning dan gugur sebelum waktunya, dimulai dari daun tua",
+        "Lesi dapat muncul pada tangkai daun dan sulur, meskipun jarang pada buah"
+      ],
+      "pencegahan": [
+        "Terapkan praktik sanitasi yang baik (buang daun yang jatuh)",
+        "Tingkatkan sirkulasi udara dengan pemangkasan yang efektif dan penataan teralis",
+        "Hindari penyiraman dari atas yang membasahi daun dalam waktu lama",
+        "Aplikasikan fungisida preventif pada fase pertumbuhan tunas hingga pasca panen",
+        "Jaga jarak tanam yang cukup"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Dithane M-45",
+          "bahanAktif": "Mankozeb 80%",
+          "dosis": "2 gram/liter air",
+          "cara": "Semprot setiap 10-14 hari saat musim hujan atau kondisi lembab"
+        },
+        {
+          "merk": "Copper Oxychloride 50 WP",
+          "bahanAktif": "Tembaga Oksiklorida",
+          "dosis": "3 gram/liter air",
+          "cara": "Aplikasi kontak setelah pemangkasan dan awal pertumbuhan"
+        },
+        {
+          "merk": "Bavistin 50 WP",
+          "bahanAktif": "Carbendazim 50%",
+          "dosis": "1 gram/liter air",
+          "cara": "Semprot sistemik saat gejala muncul, dengan rotasi fungisida"
+        }
+      ],
+      "solusiTradisional": [
+        "Semprotkan larutan cuka sari apel yang diencerkan (1:30 dengan air)",
+        "Gunakan larutan kalium bikarbonat (potassium bicarbonate) sebagai fungisida",
+        "Aplikasikan minyak mimba (neem oil) yang dicampur dengan sabun",
+        "Tanam basil atau mint di sekitar anggur untuk memecah siklus patogen",
+        "Gunakan mulsa jerami untuk mencegah percikan jamur dari tanah"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Isariopsis Leaf Spot Control",
+          "url": "https://www.youtube.com/results?search_query=grape+isariopsis+leaf+spot+management",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Isariopsis Clavispora Management",
+          "url": "https://scholar.google.com/scholar?q=isariopsis+clavispora+grape+control",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "nama": "Anggur Sehat",
+      "tanaman": "Anggur",
+      "gambar": "https://images.unsplash.com/photo-1579548123284-c5a5e3a388f5",
+      "detail": "Tanaman anggur yang sehat menunjukkan daun hijau penuh tanpa bercak atau nekrosis, sulur yang kuat dan kokoh, serta produksi buah yang seragam. Anggur sehat memerlukan sinar matahari penuh, tanah dengan drainase yang sangat baik, dan pemangkasan tahunan yang tepat untuk mengoptimalkan hasil panen. Perawatan yang tepat juga termasuk irigasi teratur dan pemupukan yang seimbang sesuai dengan fase pertumbuhan.",
+      "gejala": [
+        "Daun berwarna hijau tua, rata, dan bebas dari bercak atau lesi",
+        "Sulur muda dan batang sehat, kuat, dan tidak pecah-pecah",
+        "Buah terbentuk dalam tandan yang rapat dan seragam dengan warna alami yang cerah",
+        "Pertumbuhan tunas baru yang vigor dan cepat",
+        "Tidak ada tanda-tanda kekurangan nutrisi (seperti klorosis) atau serangan hama",
+        "Sistem perakaran yang kuat menahan tanaman dengan baik"
+      ],
+      "pencegahan": [
+        "Pemangkasan rutin untuk menjaga bentuk kanopi dan sirkulasi udara",
+        "Pemberian pupuk berimbang yang kaya Kalium (K) untuk kualitas buah",
+        "Irigasi tetes untuk menghindari daun basah dalam waktu lama",
+        "Pemasangan teralis yang tepat untuk mendukung sulur dan buah",
+        "Monitoring hama (kutu daun, thrips) dan penyakit secara berkala",
+        "Sanitasi kebun dengan membuang daun dan sulur yang sudah mati",
+        "Lakukan penjarangan buah jika tandan terlalu padat"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "NPK Grower 15-9-20",
+          "bahanAktif": "Nitrogen, Fosfor, Kalium (tinggi K)",
+          "dosis": "100-200 gram per tanaman",
+          "cara": "Aplikasi saat fase pembuahan hingga panen"
+        },
+        {
+          "merk": "Gandasil B",
+          "bahanAktif": "NPK + Mikro (tinggi Fosfor dan Kalium)",
+          "dosis": "2 gram/liter air",
+          "cara": "Semprot daun saat fase pembungaan dan pembuahan"
+        },
+        {
+          "merk": "KNO3 (Kalium Nitrat)",
+          "bahanAktif": "K2O 46%, N 13%",
+          "dosis": "1-2 gram/liter air",
+          "cara": "Kocor atau semprot untuk meningkatkan kemanisan buah"
+        }
+      ],
+      "solusiTradisional": [
+        "Aplikasikan kompos matang dan pupuk kandang setiap tahun",
+        "Gunakan mulsa organik (serutan kayu, jerami) untuk menjaga kelembaban dan suhu akar",
+        "Buat POC (Pupuk Organik Cair) dari air cucian beras dan molase",
+        "Tanam tanaman penutup tanah (cover crop) seperti legum untuk menambah nitrogen",
+        "Gunakan abu dapur (kaya Kalium) yang ditaburkan di sekitar pangkal pohon"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Panduan Budidaya Anggur",
+          "url": "https://www.youtube.com/results?search_query=cara+menanam+anggur",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Grapevine Health and Nutrition",
+          "url": "https://scholar.google.com/scholar?q=grape+vine+cultivation+and+health+management",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "nama": "Huanglongbing (HLB) / Citrus Greening Jeruk",
+      "tanaman": "Jeruk",
+      "gambar": "https://images.unsplash.com/photo-1510651664157-195c102b370e",
+      "detail": "Huanglongbing (HLB), atau *Citrus Greening*, adalah salah satu penyakit paling merusak pada tanaman jeruk, disebabkan oleh bakteri *Candidatus Liberibacter asiaticus* (CLas) yang ditularkan oleh kutu loncat (Diaphorina citri). Penyakit ini bersifat sistemik dan tidak dapat disembuhkan, menyebabkan daun menguning tidak merata (*mottling*) dan buah tetap hijau, kecil, dan rasanya pahit. Pengendalian vektor (kutu loncat) adalah kunci utama.",
+      "gejala": [
+        "Daun menguning tidak merata (*blotchy mottle*) yang tidak simetris (khas HLB)",
+        "Daun menjadi tebal, kaku, dan tegak (*zebra-like mottling*)",
+        "Buah menjadi kecil, bentuk tidak simetris, dan tetap hijau di bagian bawah (greening)",
+        "Buah rasanya asam dan pahit, biji tidak sempurna",
+        "Gugur daun prematur, ranting mati (*dieback*), dan penurunan produksi drastis",
+        "Gejala sering muncul pertama pada satu cabang"
+      ],
+      "pencegahan": [
+        "Gunakan bibit yang bersertifikat bebas HLB (budaya jaringan)",
+        "Segera cabut dan musnahkan pohon yang terinfeksi untuk mencegah penyebaran",
+        "Kontrol vektor (kutu loncat) secara ketat menggunakan insektisida",
+        "Tutup tunas muda dengan kawat kasa untuk menghindari serangan kutu loncat",
+        "Lakukan pemupukan berimbang dan pemberian unsur mikro (Zn, Mn, Fe) untuk memperkuat tanaman"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Imidacloprid (Confidor)",
+          "bahanAktif": "Imidacloprid",
+          "dosis": "1-2 ml/liter air",
+          "cara": "Aplikasi kocor (sistemik) ke tanah untuk mengontrol kutu loncat selama 3-4 bulan"
+        },
+        {
+          "merk": "Abamectin (Agrimec)",
+          "bahanAktif": "Abamectin",
+          "dosis": "0.5 ml/liter air",
+          "cara": "Semprot pada tunas muda untuk mengontrol kutu loncat"
+        },
+        {
+          "merk": "Streptomycin Sulfate",
+          "bahanAktif": "Streptomycin",
+          "dosis": "200-500 ppm",
+          "cara": "Injeksi ke batang (kontroversial dan jarang digunakan di lapangan)"
+        }
+      ],
+      "solusiTradisional": [
+        "Gunakan *predator* alami kutu loncat seperti tawon *Tamarixia radiata*",
+        "Semprotkan ekstrak mimba (neem oil) secara rutin pada tunas muda",
+        "Tanam tanaman penolak hama (seperti kemangi atau serai) di sekitar pohon",
+        "Pasang perangkap lengket berwarna kuning untuk memonitor populasi kutu loncat",
+        "Berikan pupuk organik dan mikoriza untuk meningkatkan imunitas dan penyerapan nutrisi"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Understanding Citrus Greening",
+          "url": "https://www.youtube.com/results?search_query=citrus+greening+huanglongbing+control",
+          "tipe": "Video"
+        },
+        {
+          "judul": "HLB Candidatus Liberibacter Management",
+          "url": "https://scholar.google.com/scholar?q=huanglongbing+Candidatus+Liberibacter+asiaticus+management",
+          "tipe": "Jurnal"
+        }
+      ]
+    },{
+      "id": 16,
+      "nama": "Bacterial Spot (Bercak Bakteri) Persik",
+      "tanaman": "Persik",
+      "gambar": "https://images.unsplash.com/photo-1595180492476-88a29a0f0d3a",
+      "detail": "Bacterial Spot (Bercak Bakteri) pada persik disebabkan oleh bakteri *Xanthomonas campestris pv. pruni*. Penyakit ini menyerang daun, ranting, dan buah. Gejala khasnya meliputi bercak coklat keunguan pada daun yang kemudian gugur (*shot-hole*) dan bercak parah pada buah yang mengurangi kualitas dan nilai jual. Penyakit ini berkembang pesat dalam kondisi hangat dan basah serta sulit dikendalikan setelah infeksi terjadi.",
+      "gejala": [
+        "Bercak kecil kebasahan berwarna hijau pucat pada daun, yang kemudian menjadi coklat/ungu tua",
+        "Pusat bercak mengering dan rontok, meninggalkan lubang seperti tembakan (*shot-hole*)",
+        "Daun menguning dan gugur prematur secara masif",
+        "Bercak pada buah berupa cekungan kecil, keras, dan berwarna coklat tua",
+        "Kanker pada ranting yang mengeluarkan getah (gummosis)"
+      ],
+      "pencegahan": [
+        "Tanam varietas persik yang tahan terhadap Bacterial Spot",
+        "Hindari pekerjaan kebun (pemangkasan/penyiangan) saat daun basah",
+        "Lakukan pemangkasan yang tepat untuk meningkatkan sirkulasi udara",
+        "Gunakan mulsa untuk mencegah percikan tanah yang mengandung bakteri",
+        "Aplikasi semprot tembaga saat dorman dan awal musim tanam",
+        "Jaga kesehatan pohon secara keseluruhan dengan pemupukan berimbang"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Kocide 3000",
+          "bahanAktif": "Tembaga Hidroksida 30%",
+          "dosis": "3-5 gram/liter air",
+          "cara": "Aplikasi saat dorman dan di awal musim semi (protektif)"
+        },
+        {
+          "merk": "Actigard 50 WG",
+          "bahanAktif": "Acibenzolar-S-methyl",
+          "dosis": "0.5 gram/liter air",
+          "cara": "Aplikasi preventif untuk menginduksi ketahanan tanaman (Sistemik Acquired Resistance)"
+        },
+        {
+          "merk": "Kasumin 2L",
+          "bahanAktif": "Kasugamycin",
+          "dosis": "1-2 ml/liter air",
+          "cara": "Aplikasi rotasi dengan tembaga saat gejala terlihat"
+        }
+      ],
+      "solusiTradisional": [
+        "Semprotkan larutan cuka sari apel yang sangat encer (1:50) sebagai anti-bakteri ringan",
+        "Aplikasikan minyak mimba (neem oil) yang berfungsi sebagai protektan",
+        "Gunakan ekstrak bawang putih yang disaring sebagai antibakteri nabati",
+        "Pastikan irigasi yang efektif di pagi hari agar daun kering sebelum malam",
+        "Berikan pupuk yang mengandung Kalsium untuk memperkuat dinding sel tanaman"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Peach Bacterial Spot Control",
+          "url": "https://www.youtube.com/results?search_query=peach+bacterial+spot+control+xanthomonas",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Xanthomonas pruni Management",
+          "url": "https://scholar.google.com/scholar?q=xanthomonas+campestris+pruni+peach+management",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "nama": "Persik Sehat",
+      "tanaman": "Persik",
+      "gambar": "https://images.unsplash.com/photo-1627916560020-0435940c7414",
+      "detail": "Pohon persik yang sehat memiliki daun hijau segar, pertumbuhan tunas yang kuat, dan buah yang berkembang penuh tanpa bercak atau cacat. Persik memerlukan pemangkasan tahunan yang tepat, sinar matahari penuh, dan tanah yang subur dengan drainase baik. Kesehatan pohon yang optimal memastikan hasil buah yang manis, berukuran besar, dan bebas dari penyakit jamur atau bakteri yang umum menyerang.",
+      "gejala": [
+        "Daun berwarna hijau segar tanpa klorosis atau bercak",
+        "Tunas baru tumbuh dengan vigor dan seragam",
+        "Batang dan cabang kokoh tanpa kanker atau getah berlebihan (gummosis)",
+        "Buah berukuran penuh, matang dengan warna yang cerah, dan berbulu halus",
+        "Pembungaan dan pembuahan terjadi secara teratur dan melimpah",
+        "Tidak ada tanda-tanda kekurangan nutrisi (misalnya, daun kuning)"
+      ],
+      "pencegahan": [
+        "Lakukan pemangkasan terbuka (V-shape atau *open-center*) untuk sirkulasi udara maksimal",
+        "Berikan pemupukan NPK berimbang, dengan fokus pada Kalium sebelum panen",
+        "Pastikan irigasi teratur, hindari kekeringan yang menyebabkan stres",
+        "Lakukan penjarangan buah untuk meningkatkan ukuran dan kualitas buah yang tersisa",
+        "Lindungi pohon dari embun beku saat fase pembungaan",
+        "Gunakan mulsa organik untuk menjaga suhu dan kelembaban tanah"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "NPK 15-15-15",
+          "bahanAktif": "Nitrogen, Fosfor, Kalium berimbang",
+          "dosis": "200-300 gram per pohon dewasa",
+          "cara": "Aplikasi 2-3 kali setahun di sekitar tajuk pohon"
+        },
+        {
+          "merk": "Gandasil B",
+          "bahanAktif": "NPK + Mikro (tinggi Fosfor dan Kalium)",
+          "dosis": "2 gram/liter air",
+          "cara": "Semprot daun saat fase pembungaan hingga pembuahan"
+        },
+        {
+          "merk": "Cal-Mag (Kalsium dan Magnesium)",
+          "bahanAktif": "Ca dan Mg",
+          "dosis": "1 ml/liter air",
+          "cara": "Semprot untuk memperkuat dinding sel dan mencegah buah pecah"
+        }
+      ],
+      "solusiTradisional": [
+        "Gunakan kompos matang sebagai pupuk dasar tahunan",
+        "Aplikasikan MOL (Mikro Organisme Lokal) atau POC secara rutin",
+        "Berikan dolomit untuk menjaga pH tanah yang disukai persik (6.0-6.5)",
+        "Tanam *cover crop* legum di bawah pohon untuk menambah Nitrogen",
+        "Gunakan teh kompos aerobik untuk meningkatkan aktivitas mikroba tanah"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Perawatan Pohon Persik",
+          "url": "https://www.youtube.com/results?search_query=cara+merawat+pohon+persik",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Peach Tree Cultivation Guide",
+          "url": "https://scholar.google.com/scholar?q=peach+tree+cultivation+and+pruning",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "nama": "Bacterial Spot (Bercak Bakteri) Paprika",
+      "tanaman": "Paprika (Lonceng)",
+      "gambar": "https://images.unsplash.com/photo-1601666671231-15570d85913d",
+      "detail": "Bercak Bakteri pada paprika (dan cabai) disebabkan oleh *Xanthomonas campestris pv. vesicatoria*. Penyakit ini menyerang semua bagian tanaman di atas tanah. Gejala pada daun berupa bercak coklat kehitaman dengan halo kekuningan. Pada buah, bercak menjadi luka yang kasar dan berkerak, menyebabkan buah tidak layak jual. Bakteri menyebar melalui percikan air, angin, dan benih yang terkontaminasi.",
+      "gejala": [
+        "Bercak basah, coklat tua, dan kasar pada daun yang dikelilingi halo kuning",
+        "Daun menguning parah dan gugur prematur (*defoliasi*)",
+        "Bercak gelap, menonjol, dan berkerak pada buah paprika",
+        "Batang dan tangkai buah menunjukkan garis-garis gelap atau kanker",
+        "Pertumbuhan tanaman terhambat dan hasil panen menurun drastis"
+      ],
+      "pencegahan": [
+        "Gunakan benih yang bebas penyakit atau lakukan perlakuan benih (misalnya, air panas)",
+        "Rotasi tanaman dengan tanaman non-solanaceae minimal 2 tahun",
+        "Hindari irigasi dari atas (siram langsung ke pangkal tanaman)",
+        "Jaga sirkulasi udara dan buang sisa tanaman yang terinfeksi",
+        "Aplikasi tembaga protektif secara rutin, terutama saat kelembaban tinggi",
+        "Pilih varietas paprika yang memiliki resistensi terhadap Bercak Bakteri"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Kocide 54 WDG",
+          "bahanAktif": "Tembaga Hidroksida 54%",
+          "dosis": "2-3 gram/liter air",
+          "cara": "Semprot protektif secara rutin (hindari aplikasi berlebihan di panas terik)"
+        },
+        {
+          "merk": "Kasumin 2L",
+          "bahanAktif": "Kasugamycin",
+          "dosis": "1 ml/liter air",
+          "cara": "Rotasi dengan fungisida tembaga untuk mengontrol bakteri"
+        },
+        {
+          "merk": "Agrimycin 17",
+          "bahanAktif": "Streptomycin Sulfate",
+          "dosis": "1 gram/liter air",
+          "cara": "Digunakan di beberapa negara untuk mengontrol bakteri (perlu izin)"
+        }
+      ],
+      "solusiTradisional": [
+        "Semprotkan larutan Trichoderma sp. atau Pseudomonas fluorescens pada benih dan tanah",
+        "Aplikasikan larutan baking soda dan minyak nabati sebagai fungisida dan bakteriostatik ringan",
+        "Gunakan ekstrak teh kompos yang disemprotkan pada daun",
+        "Tanam dengan mulsa plastik hitam untuk mencegah percikan tanah",
+        "Tanam jarak yang renggang untuk meminimalkan kelembaban daun"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Pepper Bacterial Spot Management",
+          "url": "https://www.youtube.com/results?search_query=pepper+bacterial+spot+xanthomonas+control",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Xanthomonas vesicatoria Pepper",
+          "url": "https://scholar.google.com/scholar?q=xanthomonas+campestris+vesicatoria+bell+pepper",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "nama": "Paprika Sehat",
+      "tanaman": "Paprika (Lonceng)",
+      "gambar": "https://images.unsplash.com/photo-1606708605581-229d91f868a1",
+      "detail": "Tanaman paprika yang sehat memiliki daun hijau tua, batang yang tegak dan kuat, serta menghasilkan buah lonceng yang besar dan berbentuk sempurna. Paprika membutuhkan sinar matahari penuh, suhu hangat (20-30°C), dan tanah yang kaya bahan organik dengan drainase baik. Tanaman sehat memiliki tingkat ketahanan yang tinggi terhadap penyakit dan hama umum, menghasilkan buah dengan kualitas terbaik.",
+      "gejala": [
+        "Daun berwarna hijau tua yang lebat dan mengkilap",
+        "Batang kokoh dan tegak tanpa lesi atau bintik hitam",
+        "Buah paprika besar, berdinding tebal, dan berbentuk simetris",
+        "Tingkat pembungaan dan pembuahan yang tinggi",
+        "Tidak ada tanda-tanda kekurangan air atau nutrisi (klorosis/ujung daun hangus)",
+        "Sistem perakaran yang padat dan sehat"
+      ],
+      "pencegahan": [
+        "Berikan pemupukan NPK dengan rasio Kalium tinggi saat fase pembentukan buah",
+        "Irigasi yang teratur dan konsisten (hindari stres air)",
+        "Pasang ajir atau tali penopang agar tanaman tidak roboh karena beban buah",
+        "Lakukan penyiangan gulma secara rutin dan pemberian mulsa",
+        "Monitoring hama pengisap (kutu kebul, thrips) yang menjadi vektor penyakit virus",
+        "Pastikan pH tanah optimal (6.0-6.8)"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "NPK Phonska 15-15-15",
+          "bahanAktif": "Nitrogen, Fosfor, Kalium berimbang",
+          "dosis": "10 gram/tanaman",
+          "cara": "Kocor atau tabur di sekitar tanaman setiap 10-14 hari"
+        },
+        {
+          "merk": "KNO3 (Kalium Nitrat)",
+          "bahanAktif": "K2O 46%, N 13%",
+          "dosis": "1-2 gram/liter air",
+          "cara": "Semprot saat fase pembentukan buah untuk meningkatkan bobot dan rasa"
+        },
+        {
+          "merk": "Super ACI (Calcium Nitrate)",
+          "bahanAktif": "Ca 19%, N 15.5%",
+          "dosis": "1 gram/liter air",
+          "cara": "Kocor atau semprot untuk mencegah *Blossom End Rot* (Busuk Ujung Buah)"
+        }
+      ],
+      "solusiTradisional": [
+        "Gunakan pupuk kandang atau kompos cacing (kascing) yang sudah matang",
+        "Buat POC dari sisa buah-buahan atau air kelapa",
+        "Semprotkan ekstrak lidah buaya yang diencerkan sebagai biostimulan",
+        "Aplikasikan mikoriza pada akar saat tanam untuk penyerapan nutrisi optimal",
+        "Mulsa dengan jerami atau sekam padi untuk menjaga kelembaban dan mencegah gulma"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Panduan Budidaya Paprika",
+          "url": "https://www.youtube.com/results?search_query=cara+menanam+paprika+lonceng",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Bell Pepper Production Guide",
+          "url": "https://scholar.google.com/scholar?q=bell+pepper+cultivation+and+fertilization",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "nama": "Early Blight (Hawar Awal) Kentang",
+      "tanaman": "Kentang",
+      "gambar": "https://images.unsplash.com/photo-1627063138374-f25b29334c9c",
+      "detail": "Early Blight atau Hawar Awal pada kentang disebabkan oleh jamur *Alternaria solani*. Penyakit ini umumnya menyerang tanaman yang lebih tua atau stres, tetapi bisa muncul kapan saja. Ciri khasnya adalah bercak bundar berwarna coklat gelap pada daun yang seringkali memiliki pola cincin konsentris seperti 'target mata banteng'. Infeksi parah menyebabkan defoliasi dan mengurangi ukuran umbi secara signifikan. ",
+      "gejala": [
+        "Bercak bundar, coklat gelap pada daun yang membesar dan membentuk pola cincin konsentris",
+        "Bercak dimulai dari daun bagian bawah atau tua dan menyebar ke atas",
+        "Daun menguning dan gugur prematur",
+        "Lesi gelap dan cekung dapat terbentuk pada batang dan tangkai daun",
+        "Pada umbi: bercak gelap, agak cekung, dan keras dengan pembusukan kering di bawahnya"
+      ],
+      "pencegahan": [
+        "Gunakan benih umbi yang bebas penyakit dan bersertifikat",
+        "Rotasi tanaman dengan tanaman non-solanaceae (jagung, serealia) selama minimal 2 tahun",
+        "Hindari irigasi dari atas dan jaga drainase tanah yang baik",
+        "Berikan pemupukan berimbang, terutama Nitrogen dan Fosfor yang cukup",
+        "Terapkan mulsa tebal untuk mencegah percikan tanah",
+        "Aplikasi fungisida preventif saat kondisi cuaca mendukung penyakit"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Dithane M-45",
+          "bahanAktif": "Mankozeb 80%",
+          "dosis": "2 gram/liter air",
+          "cara": "Aplikasi preventif setiap 7-10 hari sejak tanaman berumur 40 hari"
+        },
+        {
+          "merk": "Amistar Top 325 SC",
+          "bahanAktif": "Azoxystrobin 200 g/L + Difenoconazole 125 g/L",
+          "dosis": "1 ml/liter air",
+          "cara": "Semprot sistemik saat gejala awal muncul dan ulangi sesuai dosis"
+        },
+        {
+          "merk": "Bravo 75 WP",
+          "bahanAktif": "Klorotalonil 75%",
+          "dosis": "2 gram/liter air",
+          "cara": "Fungisida kontak protektif yang efektif melawan Alternaria"
+        }
+      ],
+      "solusiTradisional": [
+        "Semprotkan larutan cuka sari apel dan baking soda sebagai fungisida ringan",
+        "Aplikasikan *Bacillus subtilis* pada tanah dan daun sebagai agen biokontrol",
+        "Gunakan ekstrak bawang putih yang dihaluskan sebagai fungisida nabati",
+        "Lakukan pembumbunan (hilling) yang tinggi untuk melindungi umbi dari spora",
+        "Berikan pupuk yang kaya kalsium untuk memperkuat jaringan daun"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Potato Early Blight Control",
+          "url": "https://www.youtube.com/results?search_query=potato+early+blight+alternaria+control",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Alternaria Solani Management",
+          "url": "https://scholar.google.com/scholar?q=alternaria+solani+early+blight+potato+management",
+          "tipe": "Jurnal"
+        }
+      ]
+    },{
+      "id": 21,
+      "nama": "Late Blight (Hawar Akhir) Kentang",
+      "tanaman": "Kentang",
+      "gambar": "https://images.unsplash.com/photo-1627063138374-f25b29334c9c",
+      "detail": "Late Blight atau Hawar Akhir adalah penyakit yang sangat merusak dan menyebar cepat, disebabkan oleh oomycete *Phytophthora infestans*. Penyakit ini terkenal karena menyebabkan *Great Irish Famine* (Kelaparan Besar Irlandia). Gejala khasnya adalah bercak kebasahan berwarna hijau gelap pada daun, yang kemudian menghasilkan jamur putih seperti kapas di sisi bawah daun saat kondisi dingin dan lembab. Penyakit ini dapat menghancurkan seluruh tanaman dalam hitungan hari.",
+      "gejala": [
+        "Bercak besar, tidak beraturan, dan basah berwarna hijau gelap hingga hitam pada daun",
+        "Tepi bercak seringkali dikelilingi zona kehijauan yang pucat",
+        "Pada sisi bawah daun (di sekitar tepi bercak), terdapat pertumbuhan jamur putih seperti kapas saat pagi hari dan lembab",
+        "Batang menunjukkan lesi hitam yang memanjang dan dapat menyebabkan rebah",
+        "Umbi menunjukkan busuk kering berwarna coklat kemerahan pada permukaan, dengan tekstur keras"
+      ],
+      "pencegahan": [
+        "Gunakan benih kentang yang bebas penyakit dan bersertifikat",
+        "Terapkan program fungisida preventif secara ketat, terutama saat cuaca dingin dan hujan",
+        "Pembumbunan (hilling) tinggi untuk mencegah spora mencapai umbi",
+        "Hindari irigasi dari atas dan jaga drainase yang baik",
+        "Buang dan musnahkan sisa tanaman yang terinfeksi dan umbi yang busuk",
+        "Tanam varietas kentang yang memiliki tingkat resistensi yang tinggi"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Ridomil Gold MZ 68 WP",
+          "bahanAktif": "Mefenoxam 4% + Mankozeb 64%",
+          "dosis": "2.5 gram/liter air",
+          "cara": "Fungisida sistemik dan kontak, aplikasi preventif saat musim hujan"
+        },
+        {
+          "merk": "Infinito 687.5 SC",
+          "bahanAktif": "Propamocarb HCl + Fluopicolide",
+          "dosis": "1-2 ml/liter air",
+          "cara": "Sangat efektif melawan oomycetes, aplikasi saat ancaman infeksi tinggi"
+        },
+        {
+          "merk": "Kocide 54 WDG",
+          "bahanAktif": "Tembaga Hidroksida 54%",
+          "dosis": "2 gram/liter air",
+          "cara": "Aplikasi kontak protektif setiap 7 hari"
+        }
+      ],
+      "solusiTradisional": [
+        "Semprotkan larutan Bubur Bordeaux (tembaga sulfat dan kapur) yang berfungsi sebagai protektan kuat",
+        "Gunakan ekstrak teh kompos yang mengandung mikroorganisme antagonis",
+        "Aplikasikan Trichoderma sp. pada tanah sebagai agen biokontrol",
+        "Lakukan sanitasi lahan dengan membuang tanaman liar dari keluarga Solanaceae (inang alternatif)",
+        "Jaga keseimbangan nutrisi, hindari kelebihan Nitrogen"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Potato Late Blight Control",
+          "url": "https://www.youtube.com/results?search_query=potato+late+blight+phytophthora+control",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Phytophthora infestans Management",
+          "url": "https://scholar.google.com/scholar?q=phytophthora+infestans+late+blight+potato+management",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "nama": "Kentang Sehat",
+      "tanaman": "Kentang",
+      "gambar": "https://images.unsplash.com/photo-1607593922159-a54128f78d6b",
+      "detail": "Tanaman kentang yang sehat menampilkan daun hijau tua yang penuh dan lebat, batang yang kuat dan tegak, serta umbi yang terbentuk dengan baik di dalam tanah. Kentang sehat memerlukan tanah gembur, pH sedikit asam (5.0–6.0), irigasi teratur, dan pembumbunan yang tepat untuk melindungi umbi dari sinar matahari (menghindari *greening*) dan spora penyakit.",
+      "gejala": [
+        "Daun hijau gelap yang lebat dan bebas bercak atau nekrosis",
+        "Batang tebal dan kuat tanpa lesi",
+        "Umbi terbentuk seragam, bebas dari bintik atau busuk",
+        "Pertumbuhan seragam di seluruh lahan tanam",
+        "Tidak ada tanda-tanda kekurangan nutrisi atau serangan hama ulat",
+        "Tanaman tetap vigor hingga masa panen tiba"
+      ],
+      "pencegahan": [
+        "Rotasi tanaman untuk menghindari penumpukan patogen di tanah",
+        "Lakukan pembumbunan (hilling) minimal 2 kali untuk melindungi umbi",
+        "Berikan pupuk yang tinggi Kalium untuk kualitas umbi dan ketahanan penyakit",
+        "Monitoring intensif terhadap hama seperti kutu daun (vektor virus) dan kumbang kentang",
+        "Jaga jarak tanam yang optimal untuk sirkulasi udara"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "NPK 15-15-15",
+          "bahanAktif": "Nitrogen, Fosfor, Kalium berimbang",
+          "dosis": "150-250 kg/hektar",
+          "cara": "Aplikasi saat tanam dan pada saat pembumbunan pertama"
+        },
+        {
+          "merk": "Gandasil D",
+          "bahanAktif": "NPK + Mikro (untuk daun)",
+          "dosis": "2 gram/liter air",
+          "cara": "Semprot daun saat fase vegetatif"
+        },
+        {
+          "merk": "Boron (Borax)",
+          "bahanAktif": "Boron 10%",
+          "dosis": "0.5 gram/liter air",
+          "cara": "Kocor atau semprot untuk mencegah umbi berongga"
+        }
+      ],
+      "solusiTradisional": [
+        "Aplikasikan pupuk kompos dan pupuk kandang matang secara rutin",
+        "Tanam bawang putih di sekitar kentang untuk mengusir hama",
+        "Gunakan cairan fermentasi (MOL) yang kaya mikroorganisme tanah",
+        "Mulsa jerami tebal untuk menjaga kelembaban dan mencegah *greening*",
+        "Gunakan vermikompos untuk meningkatkan struktur tanah"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Budidaya Kentang Sehat",
+          "url": "https://www.youtube.com/results?search_query=cara+menanam+kentang+sehat",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Potato Crop Management",
+          "url": "https://scholar.google.com/scholar?q=potato+crop+cultivation+and+nutrition",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "nama": "Raspberry Sehat",
+      "tanaman": "Raspberry",
+      "gambar": "https://images.unsplash.com/photo-1587285906233-a00635467e2a",
+      "detail": "Tanaman raspberry yang sehat ditandai dengan batang (*cane*) yang kuat, daun hijau gelap tanpa klorosis, dan produksi buah yang melimpah dan berkualitas. Raspberry tumbuh paling baik di tanah yang kaya bahan organik, sedikit asam (pH 6.0–6.8), dan memiliki drainase sangat baik. Perawatan utamanya meliputi pemangkasan batang tua setelah panen dan pemasangan teralis untuk menopang pertumbuhan.",
+      "gejala": [
+        "Batang (cane) kuat dan tegak, umumnya berwarna coklat kemerahan",
+        "Daun berwarna hijau tua yang sehat dan bebas dari bercak jamur atau virus",
+        "Pembungaan melimpah, dan buah berkembang penuh dan manis",
+        "Tidak ada tanda-tanda layu atau *dieback* pada ujung batang",
+        "Sistem perakaran yang dangkal tetapi padat",
+        "Produksi buah seragam dan konsisten"
+      ],
+      "pencegahan": [
+        "Pemangkasan yang tepat (membuang *floricane* tahun kedua dan menipiskan *primocane*)",
+        "Pasang teralis (*trellis*) untuk sirkulasi udara yang baik dan akses sinar matahari",
+        "Hindari penanaman terlalu padat (jaga jarak antar baris)",
+        "Berikan pupuk dengan rasio NPK seimbang di awal musim semi",
+        "Monitoring hama penggerek batang dan kutu daun (vektor virus)",
+        "Aplikasikan mulsa organik tebal di sekitar pangkal tanaman"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "NPK 15-15-15",
+          "bahanAktif": "Nitrogen, Fosfor, Kalium berimbang",
+          "dosis": "100-150 gram/meter baris",
+          "cara": "Aplikasi di awal musim semi setelah salju mencair"
+        },
+        {
+          "merk": "Gandasil B",
+          "bahanAktif": "NPK + Mikro (untuk buah)",
+          "dosis": "2 gram/liter air",
+          "cara": "Semprot daun saat fase pembungaan hingga pembuahan"
+        },
+        {
+          "merk": "Iron Chelate",
+          "bahanAktif": "Fe EDTA",
+          "dosis": "0.5 gram/liter air",
+          "cara": "Aplikasi kocor untuk mengatasi klorosis akibat kekurangan zat besi"
+        }
+      ],
+      "solusiTradisional": [
+        "Gunakan kompos dan pupuk kandang matang sebagai sumber nutrisi utama",
+        "Aplikasikan mulsa kulit kayu atau serutan kayu untuk menjaga kelembaban dan asam tanah",
+        "Tanam tanaman penutup tanah (cover crop) di lorong antar baris",
+        "Gunakan MOL (Mikro Organisme Lokal) dari fermentasi buah-buahan",
+        "Irigasi tetes untuk menjaga daun tetap kering"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Perawatan dan Pemangkasan Raspberry",
+          "url": "https://www.youtube.com/results?search_query=raspberry+pruning+and+care",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Raspberry Production Guide",
+          "url": "https://scholar.google.com/scholar?q=raspberry+bush+cultivation+and+trellising",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "nama": "Kedelai Sehat",
+      "tanaman": "Kedelai (Soybean)",
+      "gambar": "https://images.unsplash.com/photo-1616781223293-85f2f5b89a3a",
+      "detail": "Tanaman kedelai yang sehat dicirikan oleh daun trifoliate hijau tua yang lebat, batang yang kokoh, dan pembentukan polong yang banyak. Kedelai adalah tanaman legum yang mampu memfiksasi nitrogen melalui nodul akar, mengurangi kebutuhan pupuk N. Kedelai sehat memerlukan tanah yang netral hingga sedikit asam (pH 6.0–7.0) dan curah hujan yang cukup, terutama selama periode pembentukan polong dan pengisian biji.",
+      "gejala": [
+        "Daun trifoliate (tiga helai) berwarna hijau tua tanpa bercak atau virus",
+        "Batang kokoh dan tegak, dengan jarak internoda yang ideal",
+        "Nodul akar berwarna merah muda saat dibelah (menandakan fiksasi N aktif)",
+        "Pembentukan polong yang padat dan pengisian biji yang maksimal",
+        "Tinggi tanaman seragam dan populasi padat",
+        "Tidak ada tanda-tanda kekurangan air atau hama penggerek polong"
+      ],
+      "pencegahan": [
+        "Gunakan benih unggul dengan daya kecambah tinggi",
+        "Berikan inokulan Rhizobium pada benih sebelum tanam untuk fiksasi N yang maksimal",
+        "Rotasi tanaman dengan serealia (padi/jagung) untuk mengurangi penyakit tular tanah",
+        "Pengendalian gulma yang efektif, terutama pada fase awal pertumbuhan",
+        "Pemantauan hama (penggerek polong, kutu kebul) dan penyakit (karat kedelai)",
+        "Pastikan drainase lahan yang baik untuk menghindari genangan"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "NPK Phonska 15-15-15",
+          "bahanAktif": "Nitrogen, Fosfor, Kalium berimbang",
+          "dosis": "50-100 kg/hektar (sebagai pupuk starter)",
+          "cara": "Aplikasi saat tanam (di alur tanam)"
+        },
+        {
+          "merk": "Fungisida Biji (misalnya, Thiram)",
+          "bahanAktif": "Thiram",
+          "dosis": "Sesuai anjuran pabrik",
+          "cara": "Perlakuan benih untuk mencegah jamur tular tanah"
+        },
+        {
+          "merk": "Pupuk Daun Fosfor Tinggi",
+          "bahanAktif": "P2O5 tinggi",
+          "dosis": "2 gram/liter air",
+          "cara": "Semprot pada fase pembungaan untuk merangsang pembentukan polong"
+        }
+      ],
+      "solusiTradisional": [
+        "Inokulasi benih dengan bakteri *Bradyrhizobium japonicum*",
+        "Aplikasikan pupuk organik (kompos) yang kaya mineral",
+        "Lakukan penyiangan gulma manual atau dengan alat pertanian",
+        "Gunakan ekstrak cabai dan bawang sebagai insektisida/fungisida nabati",
+        "Pola tanam tumpang sari dengan jagung untuk meminimalkan erosi dan hama"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Budidaya Kedelai yang Baik",
+          "url": "https://www.youtube.com/results?search_query=budidaya+kedelai+yang+baik",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Soybean Production and Nodulation",
+          "url": "https://scholar.google.com/scholar?q=soybean+production+and+rhizobium+management",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "nama": "Powdery Mildew (Embun Tepung) Squash",
+      "tanaman": "Squash/Labu",
+      "gambar": "https://images.unsplash.com/photo-1598426012480-1a6c42a2202b",
+      "detail": "Powdery Mildew atau Embun Tepung pada labu dan cucurbits lainnya disebabkan oleh jamur *Podosphaera xanthii* atau *Erysiphe cichoracearum*. Penyakit ini mudah dikenali dari lapisan putih seperti bedak atau tepung pada permukaan atas daun. Meskipun jarang membunuh tanaman dengan cepat, infeksi berat dapat menyebabkan daun menguning dan mati prematur, mengurangi fotosintesis, dan menurunkan kualitas serta kuantitas buah labu.",
+      "gejala": [
+        "Bercak putih seperti bedak pada permukaan atas daun (terutama daun tua)",
+        "Lapisan putih menyebar menutupi seluruh permukaan daun dan batang",
+        "Daun yang terinfeksi menjadi kuning, layu, dan mengering",
+        "Paparan sinar matahari pada buah yang tidak terlindungi daun dapat menyebabkan buah gosong (sunscald)",
+        "Buah tidak berkembang penuh dan rasanya hambar"
+      ],
+      "pencegahan": [
+        "Tanam varietas labu yang tahan atau toleran terhadap Powdery Mildew",
+        "Jaga sirkulasi udara dengan pemangkasan sulur yang tidak produktif",
+        "Hindari pemupukan Nitrogen berlebihan yang mendorong pertumbuhan daun lunak",
+        "Siram di pangkal tanaman, hindari membasahi daun",
+        "Aplikasi fungisida preventif, terutama saat cuaca hangat dan kering diiringi malam dingin"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Topas 100 EC",
+          "bahanAktif": "Penconazole 100 g/L",
+          "dosis": "0.5 ml/liter air",
+          "cara": "Semprot saat gejala awal dan ulangi setiap 7-10 hari"
+        },
+        {
+          "merk": "Sulfur (Belers) 80 WP",
+          "bahanAktif": "Sulfur 80%",
+          "dosis": "2-3 gram/liter air",
+          "cara": "Aplikasi preventif atau kuratif (hindari aplikasi saat suhu di atas 30°C)"
+        },
+        {
+          "merk": "Bayleton 250 EC",
+          "bahanAktif": "Triadimenol 250 g/L",
+          "dosis": "0.5 ml/liter air",
+          "cara": "Fungisida sistemik yang efektif untuk jamur tepung"
+        }
+      ],
+      "solusiTradisional": [
+        "Campurkan 1 sendok makan baking soda dengan 1 liter air dan beberapa tetes sabun cair, semprotkan setiap 5-7 hari",
+        "Gunakan larutan susu sapi segar (1:10 dengan air) sebagai fungisida alami",
+        "Aplikasikan minyak mimba (neem oil) yang berfungsi sebagai fungisida dan mitisida",
+        "Tanam labu dengan jarak tanam yang optimal",
+        "Buat larutan teh kompos yang diperkaya dengan mikroba antagonis"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Squash Powdery Mildew Control",
+          "url": "https://www.youtube.com/results?search_query=squash+powdery+mildew+control+podosphaera",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Podosphaera xanthii Management",
+          "url": "https://scholar.google.com/scholar?q=podosphaera+xanthii+squash+powdery+mildew",
+          "tipe": "Jurnal"
+        }
+      ]
+    },{
+      "id": 26,
+      "nama": "Leaf Scorch (Bercak Daun) Stroberi",
+      "tanaman": "Stroberi",
+      "gambar": "https://images.unsplash.com/photo-1596752008779-1d9e2b10a5e8",
+      "detail": "Leaf Scorch pada stroberi disebabkan oleh jamur *Diplocarpon earlianum*. Penyakit ini umumnya muncul di akhir musim atau setelah berbuah dan berkembang pesat dalam cuaca lembab. Gejala utamanya adalah bercak-bercak kecil berwarna ungu gelap pada daun yang kemudian membesar, bergabung, dan membuat daun terlihat seperti terbakar (*scorched*). Infeksi berat dapat melemahkan tanaman dan mengurangi produksi pada musim berikutnya.",
+      "gejala": [
+        "Bercak kecil, tidak beraturan, berwarna ungu kemerahan pada permukaan atas daun",
+        "Bercak membesar dan menyatu, membuat daun tampak gosong atau terbakar (*scorch*)",
+        "Daun menjadi kering, rapuh, dan melengkung ke atas pada tepinya",
+        "Pertumbuhan stolo dan pembentukan mahkota baru terhambat",
+        "Lesi kecil yang gelap dan cekung dapat ditemukan pada tangkai daun dan stolo"
+      ],
+      "pencegahan": [
+        "Tanam varietas yang tahan Leaf Scorch jika tersedia",
+        "Lakukan sanitasi yang baik, buang dan musnahkan daun tua dan terinfeksi setelah panen",
+        "Gunakan mulsa (jerami atau plastik) untuk mencegah percikan spora dari tanah",
+        "Jaga drainase yang baik dan hindari genangan air",
+        "Pemupukan berimbang, hindari kelebihan Nitrogen",
+        "Rotasi area tanam stroberi setidaknya 2-3 tahun"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Captan 50 WP",
+          "bahanAktif": "Captan 50%",
+          "dosis": "2 gram/liter air",
+          "cara": "Aplikasi preventif pada awal musim semi sebelum pembungaan, ulangi setelah panen"
+        },
+        {
+          "merk": "Switch 62.5 WG",
+          "bahanAktif": "Cyprodinil + Fludioxonil",
+          "dosis": "0.6 gram/liter air",
+          "cara": "Fungisida spektrum luas, efektif saat kondisi lembab"
+        },
+        {
+          "merk": "Bravo 75 WP",
+          "bahanAktif": "Klorotalonil 75%",
+          "dosis": "2 gram/liter air",
+          "cara": "Aplikasi di awal musim semi dan setelah panen untuk sanitasi daun"
+        }
+      ],
+      "solusiTradisional": [
+        "Semprotkan larutan baking soda (1 sdm/galon air + sabun cair) secara rutin",
+        "Gunakan minyak mimba (neem oil) yang dicampur sabun",
+        "Singkirkan semua daun tua dan terinfeksi setelah musim panen berakhir",
+        "Pastikan sirkulasi udara yang baik di sekitar tanaman",
+        "Aplikasikan teh kompos yang kaya mikroorganisme menguntungkan"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Strawberry Leaf Scorch Management",
+          "url": "https://www.youtube.com/results?search_query=strawberry+leaf+scorch+diplocarpon+control",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Diplocarpon earlianum Control",
+          "url": "https://scholar.google.com/scholar?q=diplocarpon+earlianum+strawberry+control",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "nama": "Stroberi Sehat",
+      "tanaman": "Stroberi",
+      "gambar": "https://images.unsplash.com/photo-1596752008779-1d9e2b10a5e8",
+      "detail": "Tanaman stroberi yang sehat memiliki daun hijau muda hingga tua yang mengkilap, mahkota yang padat, dan menghasilkan buah-buah matang yang merah cerah dan berukuran besar. Stroberi adalah tanaman unik yang tumbuh baik di atas mulsa (untuk menjaga buah dari tanah) dan memerlukan sinar matahari penuh, tanah sedikit asam (pH 5.5–6.5), dan irigasi yang konsisten.",
+      "gejala": [
+        "Daun trifoliate (tiga helai) berwarna hijau segar tanpa bercak",
+        "Mahkota (crown) padat dan tidak busuk",
+        "Stolo tumbuh kuat dan sehat (untuk perbanyakan)",
+        "Bunga berkembang penuh dan buah matang seragam, merah cerah, dan manis",
+        "Tidak ada tanda-tanda serangan hama seperti tungau atau kutu daun"
+      ],
+      "pencegahan": [
+        "Tanam stroberi di bedengan yang ditinggikan dengan mulsa plastik atau jerami",
+        "Lakukan pemupukan berimbang, hindari Nitrogen berlebihan pada fase pembuahan",
+        "Irigasi tetes untuk menjaga daun dan buah tetap kering",
+        "Lakukan pemangkasan daun tua dan stolo yang berlebihan",
+        "Ganti tanaman stroberi (replanting) setiap 3-4 tahun",
+        "Gunakan pupuk yang kaya Kalsium untuk mencegah buah lunak"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "NPK 16-16-16",
+          "bahanAktif": "Nitrogen, Fosfor, Kalium berimbang",
+          "dosis": "5 gram/liter air",
+          "cara": "Kocor saat awal pertumbuhan (fase vegetatif)"
+        },
+        {
+          "merk": "KNO3 (Kalium Nitrat)",
+          "bahanAktif": "K2O 46%, N 13%",
+          "dosis": "1-2 gram/liter air",
+          "cara": "Semprot/kocor saat fase pembungaan dan pembuahan"
+        },
+        {
+          "merk": "Gandasil B",
+          "bahanAktif": "NPK + Mikro (untuk buah)",
+          "dosis": "2 gram/liter air",
+          "cara": "Semprot daun pada fase generatif"
+        }
+      ],
+      "solusiTradisional": [
+        "Gunakan kompos cacing (kascing) sebagai pupuk yang kaya nutrisi mikro",
+        "Aplikasikan air cucian beras dan molase sebagai POC (Pupuk Organik Cair)",
+        "Pasang jaring pelindung untuk menghindari burung dan tupai",
+        "Gunakan mulsa jerami untuk menjaga buah tetap bersih dan mencegah gulma",
+        "Berikan *bone meal* (tepung tulang) sebagai sumber Fosfor dan Kalsium"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Cara Menanam Stroberi Sehat",
+          "url": "https://www.youtube.com/results?search_query=cara+menanam+stroberi+di+rumah",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Strawberry Cultivation and Nutrition",
+          "url": "https://scholar.google.com/scholar?q=strawberry+cultivation+and+management+guide",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "nama": "Bacterial Spot (Bercak Bakteri) Tomat",
+      "tanaman": "Tomat",
+      "gambar": "https://images.unsplash.com/photo-1596163351988-a0d0c3d9a30f",
+      "detail": "Bercak Bakteri pada tomat disebabkan oleh *Xanthomonas campestris pv. vesicatoria*. Penyakit ini sangat merusak dan mudah menular, terutama dalam kondisi hangat dan lembab. Gejala meliputi bercak kecil kehitaman pada daun yang dikelilingi halo kuning, dan bercak berkerak, kasar, dan menonjol pada buah. Bakteri dapat bertahan hidup di benih dan sisa tanaman, sehingga sanitasi sangat penting.",
+      "gejala": [
+        "Bercak kecil, basah, coklat gelap, dan berminyak pada daun",
+        "Bercak pada daun dikelilingi halo (lingkaran) kekuningan",
+        "Daun menguning parah dan gugur, menyebabkan tanaman gundul (*defoliasi*)",
+        "Pada buah: bercak coklat gelap, berkerak, dan menonjol (seperti kudis)",
+        "Lesi gelap memanjang pada batang dan tangkai bunga"
+      ],
+      "pencegahan": [
+        "Gunakan benih yang bebas penyakit atau lakukan perlakuan benih (air panas/klorin)",
+        "Rotasi tanaman dengan tanaman non-solanaceae selama minimal 2 tahun",
+        "Hindari menyiram dari atas dan hindari pekerjaan kebun saat daun basah",
+        "Segera buang dan musnahkan tanaman yang menunjukkan gejala",
+        "Aplikasi semprot tembaga (fungisida/bakterisida) secara preventif",
+        "Jaga sirkulasi udara dan sanitasi kebun yang baik"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Kocide 3000",
+          "bahanAktif": "Tembaga Hidroksida 30%",
+          "dosis": "3-5 gram/liter air",
+          "cara": "Aplikasi protektif, terutama setelah hujan atau saat kelembaban tinggi"
+        },
+        {
+          "merk": "Kasumin 2L",
+          "bahanAktif": "Kasugamycin",
+          "dosis": "1-2 ml/liter air",
+          "cara": "Rotasi dengan tembaga untuk manajemen resistensi"
+        },
+        {
+          "merk": "ManKocide",
+          "bahanAktif": "Mankozeb + Tembaga Hidroksida",
+          "dosis": "2.5 gram/liter air",
+          "cara": "Kombinasi fungisida dan bakterisida, aplikasi rutin"
+        }
+      ],
+      "solusiTradisional": [
+        "Gunakan ekstrak bawang putih dan cabai yang disaring sebagai antibakteri nabati",
+        "Aplikasikan minyak mimba (neem oil) yang dicampur sabun",
+        "Siram air fermentasi tembakau (hati-hati dengan virus)",
+        "Gunakan mulsa plastik untuk mencegah percikan tanah",
+        "Tanam kemangi atau tagetes (marigold) di sekitar tomat"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Tomato Bacterial Spot Control",
+          "url": "https://www.youtube.com/results?search_query=tomato+bacterial+spot+xanthomonas+control",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Xanthomonas vesicatoria Tomato",
+          "url": "https://scholar.google.com/scholar?q=xanthomonas+campestris+vesicatoria+tomato+management",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "nama": "Early Blight (Hawar Awal) Tomat",
+      "tanaman": "Tomat",
+      "gambar": "https://images.unsplash.com/photo-1596163351988-a0d0c3d9a30f",
+      "detail": "Early Blight atau Hawar Awal disebabkan oleh jamur *Alternaria solani*, sama seperti pada kentang. Penyakit ini menyerang tanaman yang menua atau stres dan menghasilkan bercak coklat berbentuk 'target mata banteng' dengan cincin konsentris pada daun. Hawar Awal menyebabkan daun menguning dan rontok prematur, mengurangi kemampuan tanaman untuk memberi nutrisi pada buah, sehingga buah yang dihasilkan sering mengalami *sunscald*.",
+      "gejala": [
+        "Bercak bundar, coklat gelap pada daun tua, dengan pola cincin konsentris yang khas",
+        "Area di sekitar bercak seringkali menguning",
+        "Daun yang terinfeksi parah gugur, dimulai dari bagian bawah tanaman",
+        "Lesi gelap dan memanjang pada batang dan tangkai, terutama di dekat garis tanah",
+        "Pada buah: bercak coklat kehitaman, keras, dan cekung, seringkali di sekitar tangkai"
+      ],
+      "pencegahan": [
+        "Rotasi tanaman dengan non-solanaceae",
+        "Lakukan pemangkasan daun tua dan daun yang bersentuhan dengan tanah",
+        "Gunakan mulsa (plastik atau organik) untuk mencegah percikan tanah",
+        "Berikan pupuk yang mengandung Kalium dan Fosfor cukup",
+        "Tanam varietas yang relatif toleran terhadap *Alternaria*",
+        "Pasang ajir/penopang agar tanaman tegak dan sirkulasi udara baik"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Dithane M-45",
+          "bahanAktif": "Mankozeb 80%",
+          "dosis": "2-3 gram/liter air",
+          "cara": "Aplikasi preventif setiap 7-10 hari sejak awal pertumbuhan buah"
+        },
+        {
+          "merk": "Amistar Top 325 SC",
+          "bahanAktif": "Azoxystrobin 200 g/L + Difenoconazole 125 g/L",
+          "dosis": "0.7 ml/liter air",
+          "cara": "Fungisida sistemik, rotasi dengan Mancozeb saat ancaman infeksi tinggi"
+        },
+        {
+          "merk": "Bravo 75 WP",
+          "bahanAktif": "Klorotalonil 75%",
+          "dosis": "2 gram/liter air",
+          "cara": "Fungisida kontak protektif yang efektif melawan Early Blight"
+        }
+      ],
+      "solusiTradisional": [
+        "Semprotkan *Bacillus subtilis* atau *Trichoderma* pada tanah dan daun",
+        "Aplikasikan teh kompos yang disaring secara rutin",
+        "Gunakan larutan baking soda dan minyak nabati sebagai fungisida ringan",
+        "Ambil dan musnahkan daun yang terinfeksi segera setelah terlihat",
+        "Tingkatkan nutrisi mikro (seperti Zn, Mn) untuk meningkatkan imunitas"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Tomato Early Blight Control",
+          "url": "https://www.youtube.com/results?search_query=tomato+early+blight+alternaria+control",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Alternaria solani Tomato Management",
+          "url": "https://scholar.google.com/scholar?q=alternaria+solani+early+blight+tomato",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "nama": "Late Blight (Hawar Akhir) Tomat",
+      "tanaman": "Tomat",
+      "gambar": "https://images.unsplash.com/photo-1596163351988-a0d0c3d9a30f",
+      "detail": "Late Blight atau Hawar Akhir disebabkan oleh oomycete *Phytophthora infestans* dan merupakan penyakit yang paling ditakuti pada tomat dan kentang. Penyakit ini menyebar sangat cepat, terutama saat cuaca dingin, lembab, dan hujan berkepanjangan. Gejalanya adalah bercak basah, hijau gelap hingga hitam pada daun dan batang. Di bagian bawah bercak, terlihat pertumbuhan jamur putih seperti kapas, yang dengan cepat menyebabkan kehancuran total tanaman.",
+      "gejala": [
+        "Bercak besar, tidak beraturan, dan basah berwarna hijau gelap atau hitam pada daun",
+        "Di pagi hari yang lembab, terlihat pertumbuhan jamur putih seperti kapas di sisi bawah bercak",
+        "Lesi hitam dan berminyak pada batang yang menyebabkan rebah",
+        "Buah menunjukkan bercak kasar, berwarna coklat kehitaman, yang cepat membusuk",
+        "Tanaman layu dan mati dalam beberapa hari jika kondisi optimal"
+      ],
+      "pencegahan": [
+        "Jaga jarak tanam yang lebih lebar untuk sirkulasi udara yang baik",
+        "Lakukan sanitasi, buang dan musnahkan semua sisa tanaman tomat/kentang setelah panen",
+        "Pengendalian gulma (inang alternatif)",
+        "Lakukan pemangkasan bagian bawah tanaman untuk meminimalkan percikan spora dari tanah",
+        "Pilih varietas tomat yang tahan atau toleran terhadap Late Blight"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Ridomil Gold MZ 68 WP",
+          "bahanAktif": "Mefenoxam 4% + Mankozeb 64%",
+          "dosis": "2.5 gram/liter air",
+          "cara": "Aplikasi segera setelah gejala terlihat atau preventif saat kondisi cuaca ekstrem"
+        },
+        {
+          "merk": "Infinito 687.5 SC",
+          "bahanAktif": "Propamocarb HCl + Fluopicolide",
+          "dosis": "1-2 ml/liter air",
+          "cara": "Sangat efektif melawan oomycetes, rotasi dengan fungisida lain"
+        },
+        {
+          "merk": "Aliette 80 WP",
+          "bahanAktif": "Fosetyl-Aluminium",
+          "dosis": "2.5 gram/liter air",
+          "cara": "Fungisida sistemik yang memicu ketahanan tanaman"
+        }
+      ],
+      "solusiTradisional": [
+        "Semprotkan Bubur Bordeaux (tembaga sulfat dan kapur) sebagai fungisida protektif yang kuat",
+        "Gunakan produk berbasis *Bacillus subtilis* sebagai biokontrol",
+        "Hindari pemupukan Nitrogen tinggi pada fase rentan",
+        "Irigasi tetes untuk menjaga daun tetap kering",
+        "Hentikan semua irigasi saat infeksi terlihat"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Tomato Late Blight Control",
+          "url": "https://www.youtube.com/results?search_query=tomato+late+blight+phytophthora+control",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Phytophthora infestans Tomato",
+          "url": "https://scholar.google.com/scholar?q=phytophthora+infestans+late+blight+tomato+management",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "nama": "Leaf Mold (Jamur Daun) Tomat",
+      "tanaman": "Tomat",
+      "gambar": "https://images.unsplash.com/photo-1596163351988-a0d0c3d9a30f",
+      "detail": "Leaf Mold (Jamur Daun) pada tomat disebabkan oleh jamur *Passalora fulva* (sebelumnya *Cladosporium fulvum*). Penyakit ini umum terjadi pada tanaman tomat yang ditanam di rumah kaca atau area dengan sirkulasi udara buruk dan kelembaban tinggi. Gejalanya adalah bercak hijau pucat atau kuning pada permukaan atas daun, dan pertumbuhan jamur berwarna coklat zaitun hingga ungu kecoklatan seperti beludru di sisi bawah daun.",
+      "gejala": [
+        "Bercak tidak beraturan, berwarna hijau pucat hingga kuning, pada permukaan atas daun",
+        "Pada permukaan bawah daun, terdapat pertumbuhan jamur tebal berwarna coklat zaitun atau ungu seperti beludru",
+        "Daun menguning, menggulung, mengering, dan akhirnya gugur (*defoliasi*)",
+        "Infeksi parah menyebabkan penurunan kualitas dan kuantitas buah",
+        "Penyakit biasanya dimulai dari daun tua di bagian bawah tanaman"
+      ],
+      "pencegahan": [
+        "Tingkatkan sirkulasi udara secara drastis (membuka ventilasi/pemangkasan daun)",
+        "Hindari kelembaban relatif di atas 85% untuk waktu lama",
+        "Pilih varietas tomat yang tahan terhadap *Passalora fulva*",
+        "Hentikan penyiraman di sore hari agar daun tidak basah semalaman",
+        "Jaga jarak tanam yang cukup"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Bravo 75 WP",
+          "bahanAktif": "Klorotalonil 75%",
+          "dosis": "2 gram/liter air",
+          "cara": "Aplikasi kontak, efektif untuk mencegah penetrasi jamur"
+        },
+        {
+          "merk": "Switch 62.5 WG",
+          "bahanAktif": "Cyprodinil + Fludioxonil",
+          "dosis": "0.6 gram/liter air",
+          "cara": "Fungisida spektrum luas, efektif untuk mencegah dan mengobati"
+        },
+        {
+          "merk": "Copper Oxychloride 50 WP",
+          "bahanAktif": "Tembaga Oksiklorida",
+          "dosis": "3 gram/liter air",
+          "cara": "Semprot preventif atau saat gejala awal"
+        }
+      ],
+      "solusiTradisional": [
+        "Lakukan *pruning* (pemangkasan) intensif pada daun-daun yang terinfeksi dan daun di bagian bawah",
+        "Semprotkan larutan baking soda dan minyak nabati",
+        "Gunakan ekstrak teh kompos secara rutin",
+        "Tingkatkan sirkulasi udara menggunakan kipas angin (di rumah kaca)",
+        "Gunakan mulsa untuk meminimalkan percikan spora dari tanah"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Tomato Leaf Mold Control",
+          "url": "https://www.youtube.com/results?search_query=tomato+leaf+mold+passalora+control",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Passalora fulva Management",
+          "url": "https://scholar.google.com/scholar?q=passalora+fulva+leaf+mold+tomato+control",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "nama": "Septoria Leaf Spot (Bercak Daun Septoria) Tomat",
+      "tanaman": "Tomat",
+      "gambar": "https://images.unsplash.com/photo-1596163351988-a0d0c3d9a30f",
+      "detail": "Septoria Leaf Spot disebabkan oleh jamur *Septoria lycopersici*. Ini adalah salah satu penyakit daun yang paling umum dan merusak pada tomat. Penyakit ini menghasilkan bercak kecil, bundar, berwarna abu-abu atau putih di tengah dengan tepi coklat tua. Yang khas adalah adanya titik-titik hitam kecil (*piknidia*) di pusat bercak. Penyakit ini menyebabkan defoliasi parah, dimulai dari daun bawah, yang melemahkan tanaman dan mengurangi hasil panen.",
+      "gejala": [
+        "Bercak kecil (1-2 mm), bundar, berwarna abu-abu atau putih di tengah dengan tepi coklat tua",
+        "Adanya titik-titik hitam kecil (*piknidia*) di tengah bercak (gejala khas Septoria)",
+        "Daun menguning dan gugur secara masif, dimulai dari daun bagian bawah",
+        "Lesi juga dapat muncul pada tangkai daun dan batang, tetapi jarang pada buah",
+        "Defoliasi parah menyebabkan buah terpapar sinar matahari (*sunscald*)"
+      ],
+      "pencegahan": [
+        "Rotasi tanaman (non-solanaceae) selama minimal 3 tahun",
+        "Gunakan mulsa untuk mencegah percikan spora dari tanah",
+        "Buang semua sisa tanaman tomat dari musim sebelumnya",
+        "Irigasi tetes atau siram di pangkal tanaman, hindari membasahi daun",
+        "Lakukan pemangkasan daun bawah yang paling rentan",
+        "Pasang ajir dan jaga sirkulasi udara"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Bravo 75 WP",
+          "bahanAktif": "Klorotalonil 75%",
+          "dosis": "2 gram/liter air",
+          "cara": "Aplikasi preventif setiap 7-10 hari saat musim hujan"
+        },
+        {
+          "merk": "Dithane M-45",
+          "bahanAktif": "Mankozeb 80%",
+          "dosis": "2 gram/liter air",
+          "cara": "Fungisida kontak yang efektif melawan Septoria"
+        },
+        {
+          "merk": "Quadris Top 325 SC",
+          "bahanAktif": "Azoxystrobin + Difenoconazole",
+          "dosis": "0.7 ml/liter air",
+          "cara": "Fungisida sistemik, digunakan untuk rotasi"
+        }
+      ],
+      "solusiTradisional": [
+        "Semprotkan larutan baking soda dan minyak nabati secara rutin (setiap 5 hari)",
+        "Gunakan ekstrak *horse tail* (Equisetum) sebagai penguat dinding sel dan anti-jamur",
+        "Ambil dan buang daun yang terinfeksi segera setelah terlihat",
+        "Pastikan tanaman memiliki nutrisi Kalium dan Kalsium yang cukup",
+        "Sterilisasi alat-alat berkebun (gunting, pisau) dengan alkohol"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Tomato Septoria Leaf Spot Control",
+          "url": "https://www.youtube.com/results?search_query=tomato+septoria+leaf+spot+control",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Septoria lycopersici Management",
+          "url": "https://scholar.google.com/scholar?q=septoria+lycopersici+tomato+management",
+          "tipe": "Jurnal"
+        }
+      ]
+    },{
+      "id": 33,
+      "nama": "Spider Mites (Tungau Laba-laba Merah) Tomat",
+      "tanaman": "Tomat",
+      "gambar": "https://images.unsplash.com/photo-1596163351988-a0d0c3d9a30f",
+      "detail": "Spider Mites (terutama *Tetranychus urticae* atau Tungau Laba-laba Merah) bukanlah penyakit jamur, tetapi hama yang sangat merusak pada tomat, terutama di lingkungan panas dan kering. Mereka menghisap isi sel daun, menyebabkan bintik-bintik putih kecil (*stippling*) pada daun. Dalam infestasi berat, tungau akan membuat jaring halus seperti sarang laba-laba di bawah daun dan ujung tunas, menyebabkan daun menguning dan mati prematur.",
+      "gejala": [
+        "Bintik-bintik kecil berwarna putih atau kuning (*stippling*) pada permukaan atas daun",
+        "Bagian bawah daun mungkin terlihat pertumbuhan tungau kecil berwarna merah, kuning, atau hijau (membutuhkan kaca pembesar)",
+        "Jaring halus seperti sarang laba-laba di bagian bawah daun atau di antara tangkai daun (*webbing*)",
+        "Daun menguning, mengering, dan rontok",
+        "Tanaman terlihat kusam dan kurang vigor"
+      ],
+      "pencegahan": [
+        "Jaga kelembaban lingkungan di sekitar tanaman (tungau tidak suka lembab)",
+        "Semprot daun dengan air kencang (di pagi hari) untuk menghilangkan tungau secara fisik",
+        "Gunakan musuh alami seperti tungau predator (*Phytoseiulus persimilis*)",
+        "Hindari penyalahgunaan insektisida spektrum luas yang membunuh predator alami",
+        "Lakukan monitoring rutin di bagian bawah daun dengan kaca pembesar"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Agrimec 18 EC",
+          "bahanAktif": "Abamectin 18 g/L",
+          "dosis": "0.25 - 0.5 ml/liter air",
+          "cara": "Aplikasi ke bagian bawah daun, ulangi setiap 5-7 hari karena tungau cepat berkembang biak"
+        },
+        {
+          "merk": "Mitac 200 EC",
+          "bahanAktif": "Amitraz 200 g/L",
+          "dosis": "1-2 ml/liter air",
+          "cara": "Akarisida kontak, efektif membunuh tungau dan telur"
+        },
+        {
+          "merk": "Apollo 50 SC",
+          "bahanAktif": "Clofentezine 500 g/L",
+          "dosis": "0.5 ml/liter air",
+          "cara": "Akarisida spesifik terhadap telur dan larva tungau"
+        }
+      ],
+      "solusiTradisional": [
+        "Semprotkan minyak mimba (neem oil) yang dicampur dengan sabun cuci piring",
+        "Gunakan sabun insektisida (potassium salts of fatty acids) secara merata di bawah daun",
+        "Lapisan daun dengan campuran air dan alkohol isopropil (1:4) untuk membunuh tungau kontak",
+        "Lepaskan daun yang sudah terinfeksi parah",
+        "Tanam serai wangi atau mint di sekitar tomat"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Tomato Spider Mite Control",
+          "url": "https://www.youtube.com/results?search_query=tomato+two+spotted+spider+mite+control",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Tetranychus urticae Management",
+          "url": "https://scholar.google.com/scholar?q=tetranychus+urticae+tomato+management",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "nama": "Target Spot (Bercak Target) Tomat",
+      "tanaman": "Tomat",
+      "gambar": "https://images.unsplash.com/photo-1596163351988-a0d0c3d9a30f",
+      "detail": "Target Spot disebabkan oleh jamur *Corynespora cassiicola*. Nama penyakit ini berasal dari bercak khas berbentuk target (cincin konsentris) yang mirip dengan Early Blight, tetapi pada Target Spot, bercak seringkali lebih besar dan lebih angular (bersudut), serta dapat menyerang buah pada semua tahap. Penyakit ini berkembang pesat pada kelembaban tinggi dan suhu hangat, menyebabkan defoliasi yang cepat.",
+      "gejala": [
+        "Bercak coklat tua pada daun, seringkali bersudut dan dikelilingi zona kuning pucat",
+        "Pola cincin konsentris (*target spot*) yang khas, mirip mata banteng",
+        "Daun menguning dan rontok, dimulai dari bawah",
+        "Pada buah: bercak coklat gelap, sedikit cekung, seringkali dikelilingi halo kuning",
+        "Buah yang terinfeksi parah dapat retak, memungkinkan infeksi sekunder"
+      ],
+      "pencegahan": [
+        "Gunakan benih yang bebas *Corynespora*",
+        "Rotasi tanaman (non-solanaceae) minimal 3 tahun",
+        "Lakukan sanitasi, buang sisa tanaman terinfeksi dan gulma solanaceae liar",
+        "Hindari irigasi dari atas dan pastikan drainase yang baik",
+        "Pilih varietas tomat yang tahan terhadap Target Spot",
+        "Gunakan mulsa untuk mengurangi percikan tanah"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Bravo 75 WP",
+          "bahanAktif": "Klorotalonil 75%",
+          "dosis": "2 gram/liter air",
+          "cara": "Fungisida kontak protektif, aplikasi rutin saat kondisi cuaca mendukung"
+        },
+        {
+          "merk": "Amistar Top 325 SC",
+          "bahanAktif": "Azoxystrobin 200 g/L + Difenoconazole 125 g/L",
+          "dosis": "0.7 ml/liter air",
+          "cara": "Sangat efektif melawan jamur spektrum luas, rotasi dengan fungisida kontak"
+        },
+        {
+          "merk": "Dithane M-45",
+          "bahanAktif": "Mankozeb 80%",
+          "dosis": "2 gram/liter air",
+          "cara": "Aplikasi kontak preventif"
+        }
+      ],
+      "solusiTradisional": [
+        "Ambil dan musnahkan daun yang terinfeksi segera",
+        "Gunakan teh kompos yang diperkaya dengan mikroba antagonis",
+        "Semprotkan larutan baking soda dan minyak nabati",
+        "Lakukan pemangkasan cabang dan daun yang dekat dengan tanah",
+        "Tanam bawang putih di sekitar tomat"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Tomato Target Spot Control",
+          "url": "https://www.youtube.com/results?search_query=tomato+target+spot+corynespora+control",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Corynespora cassiicola Management",
+          "url": "https://scholar.google.com/scholar?q=corynespora+cassiicola+tomato+management",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "nama": "Tomato Yellow Leaf Curl Virus (TYLCV)",
+      "tanaman": "Tomat",
+      "gambar": "https://images.unsplash.com/photo-1596163351988-a0d0c3d9a30f",
+      "detail": "Tomato Yellow Leaf Curl Virus (TYLCV) adalah penyakit virus yang sangat merusak pada tomat, ditularkan secara eksklusif oleh kutu kebul (*Bemisia tabaci*). Virus ini tidak dapat disembuhkan. Gejala khasnya adalah daun muda menguning, menggulung ke atas dan menebal, serta tanaman kerdil. Tanaman yang terinfeksi pada usia muda hampir tidak menghasilkan buah. Pengendalian vektor (kutu kebul) adalah kunci utama.",
+      "gejala": [
+        "Daun muda menguning parah (*klorosis*) di antara urat daun",
+        "Daun menggulung ke atas (*curling*) dan menjadi kaku atau rapuh",
+        "Tanaman mengalami pertumbuhan kerdil (*stunting*) dan percabangan yang banyak (*bushy* quality)",
+        "Bunga rontok dan hasil buah sangat sedikit atau tidak ada sama sekali",
+        "Buah yang terbentuk kecil dan kualitasnya buruk",
+        "Gejala muncul pada bagian atas dan tunas baru"
+      ],
+      "pencegahan": [
+        "Gunakan varietas tomat yang memiliki resistensi genetik terhadap TYLCV (misalnya, 'Ty' gen)",
+        "Kontrol ketat vektor kutu kebul dengan insektisida sejak dini",
+        "Tutup bibit tomat dengan *screen house* atau kasa nyamuk anti-kutu kebul",
+        "Cabut dan musnahkan (bakar atau kubur) tanaman yang menunjukkan gejala virus segera",
+        "Gunakan mulsa perak/aluminium yang dapat menolak kutu kebul"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Imidacloprid (Confidor)",
+          "bahanAktif": "Imidacloprid",
+          "dosis": "1-2 ml/liter air",
+          "cara": "Aplikasi kocor (sistemik) ke tanah untuk mengontrol kutu kebul"
+        },
+        {
+          "merk": "Diafenthiuron (Pegasus)",
+          "bahanAktif": "Diafenthiuron",
+          "dosis": "1 gram/liter air",
+          "cara": "Insektisida kontak dan lambung yang efektif terhadap kutu kebul"
+        },
+        {
+          "merk": "Pyriproxyfen (Admiral)",
+          "bahanAktif": "Pyriproxyfen",
+          "dosis": "0.5 ml/liter air",
+          "cara": "Pengatur tumbuh serangga, efektif melawan telur dan nimfa kutu kebul"
+        }
+      ],
+      "solusiTradisional": [
+        "Pasang perangkap lengket berwarna kuning secara masif untuk menangkap kutu kebul",
+        "Semprotkan minyak mimba (neem oil) yang dicampur sabun secara rutin di bawah daun",
+        "Gunakan musuh alami kutu kebul (misalnya, tawon parasit *Encarsia formosa*)",
+        "Tanam tagetes atau kemangi sebagai tanaman pengusir hama",
+        "Gunakan mulsa jerami tebal untuk mengurangi percikan dan populasi hama tanah"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Tomato Yellow Leaf Curl Virus Control",
+          "url": "https://www.youtube.com/results?search_query=tomato+yellow+leaf+curl+virus+control",
+          "tipe": "Video"
+        },
+        {
+          "judul": "TYLCV and Bemisia tabaci Management",
+          "url": "https://scholar.google.com/scholar?q=tomato+yellow+leaf+curl+virus+bemisia+tabaci+management",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "nama": "Tomato Mosaic Virus (ToMV)",
+      "tanaman": "Tomat",
+      "gambar": "https://images.unsplash.com/photo-1596163351988-a0d0c3d9a30f",
+      "detail": "Tomato Mosaic Virus (ToMV) adalah penyakit virus yang sangat menular dan mudah menyebar melalui kontak mekanis (tangan petani, alat berkebun, dan tanah). Virus ini juga dapat ditularkan melalui benih. Gejala khasnya adalah pola mosaik atau marmer berwarna hijau muda dan hijau tua pada daun, daun keriting, dan pertumbuhan terhambat. Meskipun tidak sefatal TYLCV, ToMV dapat mengurangi kualitas dan kuantitas hasil panen secara signifikan.",
+      "gejala": [
+        "Daun muda menunjukkan pola mosaik (bercak-bercak tidak merata) berwarna hijau muda dan hijau tua",
+        "Daun menjadi keriting, bergelombang, atau mengerut (*filiformity*)",
+        "Pengerutan dan penyempitan daun, seringkali disebut *shoestring* atau tali sepatu",
+        "Pertumbuhan tanaman kerdil (*stunting*)",
+        "Buah dapat menunjukkan bercak kuning, coklat, atau perkembangan warna yang tidak merata (*ripening disorder*)"
+      ],
+      "pencegahan": [
+        "Gunakan benih yang bebas ToMV (perlakuan benih air panas)",
+        "Gunakan varietas tomat yang memiliki resistensi genetik (gene *Tm-2* atau *Tm-2a*)",
+        "Hindari merokok di sekitar kebun (virus terkait Tembakau/TMV)",
+        "Desinfeksi tangan (cuci dengan sabun) dan alat berkebun (misalnya, dengan larutan pemutih 10%) secara rutin",
+        "Cabut dan musnahkan tanaman yang terinfeksi segera setelah terlihat",
+        "Jaga lingkungan sekitar dari gulma dan inang alternatif virus"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "Tidak Ada",
+          "bahanAktif": "N/A",
+          "dosis": "N/A",
+          "cara": "Tidak ada pestisida yang dapat menyembuhkan penyakit virus."
+        },
+        {
+          "merk": "Pupuk Daun Kalium Tinggi",
+          "bahanAktif": "Kalium Nitrat",
+          "dosis": "1-2 gram/liter air",
+          "cara": "Meningkatkan imunitas dan meminimalkan dampak stres virus"
+        },
+        {
+          "merk": "Biostimulan (Chitosan)",
+          "bahanAktif": "Chitosan",
+          "dosis": "Sesuai anjuran",
+          "cara": "Dapat meningkatkan ketahanan sistemik tanaman (SAR)"
+        }
+      ],
+      "solusiTradisional": [
+        "Rendam benih dalam larutan trisodium fosfat (TSP) 10% selama 3 jam untuk menonaktifkan virus",
+        "Jaga nutrisi tanaman agar tetap kuat (pupuk organik berimbang)",
+        "Buang semua sisa tanaman setelah panen",
+        "Gunakan sarung tangan saat memangkas atau memanipulasi tanaman",
+        "Tanam tomat jauh dari tanaman solanaceae inang virus lainnya (cabai, terong)"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Tomato Mosaic Virus Control",
+          "url": "https://www.youtube.com/results?search_query=tomato+mosaic+virus+management",
+          "tipe": "Video"
+        },
+        {
+          "judul": "ToMV and Mechanical Transmission",
+          "url": "https://scholar.google.com/scholar?q=tomato+mosaic+virus+mechanical+transmission+control",
+          "tipe": "Jurnal"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "nama": "Tomat Sehat",
+      "tanaman": "Tomat",
+      "gambar": "https://images.unsplash.com/photo-1596163351988-a0d0c3d9a30f",
+      "detail": "Tanaman tomat yang sehat menunjukkan daun hijau tua yang penuh dan lebar, batang yang kuat dan tegak, serta buah yang matang dengan warna merata dan berukuran ideal. Tomat sehat memerlukan sinar matahari penuh (6-8 jam/hari), tanah berdrainase baik dan kaya bahan organik, serta pemupukan dan irigasi yang konsisten. Pemangkasan daun dan tunas yang tepat sangat penting untuk menjaga sirkulasi udara dan memaksimalkan hasil buah.",
+      "gejala": [
+        "Daun berwarna hijau gelap, rata, tanpa bercak atau virus (mosaik, keriting)",
+        "Batang tebal, kuat, dan tidak ada lesi bakteri atau jamur",
+        "Buah terbentuk seragam, matang dengan warna yang merata, tanpa *blossom end rot* (busuk ujung buah) atau *sunscald*",
+        "Bunga berkembang penuh dan tidak rontok",
+        "Pertumbuhan tunas dan tinggi tanaman sesuai dengan varietasnya"
+      ],
+      "pencegahan": [
+        "Pilih varietas unggul yang tahan terhadap penyakit umum (misalnya, VFN resistance)",
+        "Lakukan pemangkasan daun di bawah kluster buah pertama untuk mengurangi penyakit tular tanah",
+        "Berikan pupuk yang kaya Kalsium (Ca) untuk mencegah Busuk Ujung Buah (*Blossom End Rot*)",
+        "Irigasi yang konsisten, hindari perubahan kelembaban tanah yang drastis",
+        "Pasang ajir atau tali penopang untuk menjaga tanaman tetap tegak",
+        "Lakukan rotasi varietas tomat dari tahun ke tahun"
+      ],
+      "solusiKimia": [
+        {
+          "merk": "NPK 15-15-15 atau 16-16-16",
+          "bahanAktif": "Nitrogen, Fosfor, Kalium berimbang",
+          "dosis": "10-20 gram/tanaman",
+          "cara": "Kocor atau tabur setiap 10-14 hari"
+        },
+        {
+          "merk": "Kalsium Nitrat (Super ACI)",
+          "bahanAktif": "Ca 19%, N 15.5%",
+          "dosis": "1 gram/liter air",
+          "cara": "Kocor atau semprot rutin untuk mencegah Busuk Ujung Buah"
+        },
+        {
+          "merk": "Gandasil B",
+          "bahanAktif": "NPK + Mikro (tinggi K)",
+          "dosis": "2 gram/liter air",
+          "cara": "Semprot daun saat fase generatif (pembungaan dan pembuahan)"
+        }
+      ],
+      "solusiTradisional": [
+        "Aplikasikan kompos matang dan pupuk kandang sebelum tanam",
+        "Gunakan cangkang telur yang dihancurkan (sumber Kalsium) di lubang tanam",
+        "Semprotkan POC (Pupuk Organik Cair) dari air kelapa atau air cucian beras",
+        "Tanam bawang putih atau tagetes di sekitar tomat untuk mengusir hama",
+        "Mulsa jerami tebal untuk menjaga kelembaban dan melindungi buah"
+      ],
+      "linkEdukasi": [
+        {
+          "judul": "Panduan Budidaya Tomat Sehat",
+          "url": "https://www.youtube.com/results?search_query=cara+menanam+tomat+di+kebun",
+          "tipe": "Video"
+        },
+        {
+          "judul": "Tomato Cultivation and Disease Resistance",
+          "url": "https://scholar.google.com/scholar?q=tomato+cultivation+and+disease+resistance+management",
+          "tipe": "Jurnal"
+        }
+      ]
+    }
+  ]
+}
