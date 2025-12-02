@@ -234,23 +234,23 @@ const PlantDiseaseDetector = () => {
           </p>
         </div>
 
-        <div className="bg-white rounded-2xl shadow-xl p-6 mb-6">
-          {/* Buttons */}
-          <div className="grid grid-cols-5 gap-4 mb-6">
-            <button onClick={() => fileInputRef.current?.click()} className="flex flex-col items-center p-4 bg-green-500 text-white rounded-xl hover:bg-green-600 transition-all shadow-lg">
-              <Upload className="w-8 h-8 mb-2" /> <span className="text-xs md:text-sm">Upload</span>
+        <div className="bg-white rounded-2xl shadow-xl p-4 md:p-6 mb-6">
+          {/* Buttons - Diubah untuk lebih rapi di mobile: grid-cols-2 md:grid-cols-5, gap lebih kecil di mobile */}
+          <div className="grid grid-cols-2 md:grid-cols-5 gap-2 md:gap-4 mb-6">
+            <button onClick={() => fileInputRef.current?.click()} className="flex flex-col items-center p-3 md:p-4 bg-green-500 text-white rounded-xl hover:bg-green-600 transition-all shadow-lg">
+              <Upload className="w-6 h-6 md:w-8 md:h-8 mb-1 md:mb-2" /> <span className="text-xs md:text-sm">Upload</span>
             </button>
-            <button onClick={openCamera} className="flex flex-col items-center p-4 bg-blue-500 text-white rounded-xl hover:bg-blue-600 transition-all shadow-lg">
-              <Camera className="w-8 h-8 mb-2" /> <span className="text-xs md:text-sm">Kamera</span>
+            <button onClick={openCamera} className="flex flex-col items-center p-3 md:p-4 bg-blue-500 text-white rounded-xl hover:bg-blue-600 transition-all shadow-lg">
+              <Camera className="w-6 h-6 md:w-8 md:h-8 mb-1 md:mb-2" /> <span className="text-xs md:text-sm">Kamera</span>
             </button>
-            <button onClick={() => setShowHistory(!showHistory)} className="flex flex-col items-center p-4 bg-purple-500 text-white rounded-xl hover:bg-purple-600 transition-all shadow-lg">
-              <History className="w-8 h-8 mb-2" /> <span className="text-xs md:text-sm">Riwayat</span>
+            <button onClick={() => setShowHistory(!showHistory)} className="flex flex-col items-center p-3 md:p-4 bg-purple-500 text-white rounded-xl hover:bg-purple-600 transition-all shadow-lg">
+              <History className="w-6 h-6 md:w-8 md:h-8 mb-1 md:mb-2" /> <span className="text-xs md:text-sm">Riwayat</span>
             </button>
-            <button onClick={goToWeather} className="flex flex-col items-center p-4 bg-cyan-500 text-white rounded-xl hover:bg-cyan-600 transition-all shadow-lg">
-              <Cloud className="w-8 h-8 mb-2" /> <span className="text-xs md:text-sm">Cuaca</span>
+            <button onClick={goToWeather} className="flex flex-col items-center p-3 md:p-4 bg-cyan-500 text-white rounded-xl hover:bg-cyan-600 transition-all shadow-lg">
+              <Cloud className="w-6 h-6 md:w-8 md:h-8 mb-1 md:mb-2" /> <span className="text-xs md:text-sm">Cuaca</span>
             </button>
-            <button onClick={goToAIConsultation} className="flex flex-col items-center p-4 bg-indigo-500 text-white rounded-xl hover:bg-indigo-600 transition-all shadow-lg">
-              <MessageCircle className="w-8 h-8 mb-2" /> <span className="text-xs md:text-sm">Konsultasi AI</span>
+            <button onClick={goToAIConsultation} className="flex flex-col items-center p-3 md:p-4 bg-indigo-500 text-white rounded-xl hover:bg-indigo-600 transition-all shadow-lg">
+              <MessageCircle className="w-6 h-6 md:w-8 md:h-8 mb-1 md:mb-2" /> <span className="text-xs md:text-sm">Konsultasi AI</span>
             </button>
           </div>
 
@@ -272,7 +272,7 @@ const PlantDiseaseDetector = () => {
                 ref={imageRef} 
                 src={selectedImage} 
                 alt="Selected" 
-                className="w-full h-64 md:h-80 object-cover rounded-lg shadow-md border-2 border-green-100"
+                className="w-full h-48 md:h-64 lg:h-80 object-cover rounded-lg shadow-md border-2 border-green-100"
                 crossOrigin="anonymous"
               />
               
@@ -286,32 +286,32 @@ const PlantDiseaseDetector = () => {
             </div>
           )}
 
-          {/* Result UI */}
+          {/* Result UI - Grid diubah untuk lebih rapi di mobile: gap lebih kecil, padding disesuaikan */}
           {detectionResult && (
-            <div className="border-t-2 border-dashed border-gray-200 pt-6 mt-6 animate-slide-up">
-              <div className="flex items-center mb-4 bg-green-50 p-4 rounded-xl border border-green-100">
-                <CheckCircle className="w-8 h-8 text-green-600 mr-3" />
-                <div>
-                  <h2 className="text-2xl font-bold text-gray-800">{detectionResult.nama}</h2>
-                  <p className="text-sm text-gray-600 italic">ID: {detectionResult.id} | Tanaman: {detectionResult.tanaman}</p>
+            <div className="border-t-2 border-dashed border-gray-200 pt-4 md:pt-6 mt-6 animate-slide-up">
+              <div className="flex flex-col md:flex-row items-start md:items-center mb-4 bg-green-50 p-3 md:p-4 rounded-xl border border-green-100">
+                <CheckCircle className="w-6 h-6 md:w-8 md:h-8 text-green-600 mr-2 md:mr-3 flex-shrink-0" />
+                <div className="flex-1">
+                  <h2 className="text-xl md:text-2xl font-bold text-gray-800">{detectionResult.nama}</h2>
+                  <p className="text-xs md:text-sm text-gray-600 italic">ID: {detectionResult.id} | Tanaman: {detectionResult.tanaman}</p>
                 </div>
-                <div className="ml-auto bg-white px-4 py-2 rounded-full shadow-sm border border-green-200">
-                  <span className="text-lg font-bold text-green-700">{(detectionResult as any).confidence}%</span>
+                <div className="mt-2 md:mt-0 md:ml-auto bg-white px-3 md:px-4 py-1 md:py-2 rounded-full shadow-sm border border-green-200">
+                  <span className="text-base md:text-lg font-bold text-green-700">{(detectionResult as any).confidence}%</span>
                 </div>
               </div>
               
-              <div className="grid md:grid-cols-2 gap-6">
-                <div className="bg-gray-50 p-4 rounded-xl">
-                    <h4 className="flex items-center font-semibold mb-2"><BookOpen className="w-4 h-4 mr-2" /> Detail</h4>
-                    <p className="text-sm text-gray-600">{detectionResult.detail}</p>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6">
+                <div className="bg-gray-50 p-3 md:p-4 rounded-xl">
+                    <h4 className="flex items-center font-semibold mb-2 text-sm md:text-base"><BookOpen className="w-4 h-4 mr-2" /> Detail</h4>
+                    <p className="text-xs md:text-sm text-gray-600">{detectionResult.detail}</p>
                 </div>
-                <div className="bg-orange-50 p-4 rounded-xl">
-                    <h4 className="flex items-center font-semibold mb-2"><AlertCircle className="w-4 h-4 mr-2" /> Pencegahan</h4>
-                    <ul className="list-disc list-inside text-sm text-gray-600">{detectionResult.pencegahan?.map((p,i)=><li key={i}>{p}</li>)}</ul>
+                <div className="bg-orange-50 p-3 md:p-4 rounded-xl">
+                    <h4 className="flex items-center font-semibold mb-2 text-sm md:text-base"><AlertCircle className="w-4 h-4 mr-2" /> Pencegahan</h4>
+                    <ul className="list-disc list-inside text-xs md:text-sm text-gray-600">{detectionResult.pencegahan?.map((p,i)=><li key={i}>{p}</li>)}</ul>
                 </div>
-                <div className="bg-blue-50 p-4 rounded-xl">
-                    <h4 className="flex items-center font-semibold mb-2"><FlaskConical className="w-4 h-4 mr-2" /> Kimia</h4>
-                    <ul className="list-disc list-inside text-sm text-gray-600">
+                <div className="bg-blue-50 p-3 md:p-4 rounded-xl">
+                    <h4 className="flex items-center font-semibold mb-2 text-sm md:text-base"><FlaskConical className="w-4 h-4 mr-2" /> Kimia</h4>
+                    <ul className="list-disc list-inside text-xs md:text-sm text-gray-600">
                       {detectionResult.solusiKimia?.map((s, i) => (
                         <li key={i}>
                           <strong>{s.merk}</strong> ({s.bahanAktif}): {s.dosis}, {s.cara}
@@ -319,28 +319,28 @@ const PlantDiseaseDetector = () => {
                       ))}
                     </ul>
                 </div>
-                <div className="bg-green-50 p-4 rounded-xl">
-                    <h4 className="flex items-center font-semibold mb-2"><Sprout className="w-4 h-4 mr-2" /> Tradisional</h4>
-                    <ul className="list-disc list-inside text-sm text-gray-600">{detectionResult.solusiTradisional?.map((s,i)=><li key={i}>{s}</li>)}</ul>
+                <div className="bg-green-50 p-3 md:p-4 rounded-xl">
+                    <h4 className="flex items-center font-semibold mb-2 text-sm md:text-base"><Sprout className="w-4 h-4 mr-2" /> Tradisional</h4>
+                    <ul className="list-disc list-inside text-xs md:text-sm text-gray-600">{detectionResult.solusiTradisional?.map((s,i)=><li key={i}>{s}</li>)}</ul>
                 </div>
               </div>
             </div>
           )}
         </div>
         
-        {/* History Panel (Sama seperti sebelumnya) */}
+        {/* History Panel - Padding dan gap disesuaikan untuk mobile */}
         {showHistory && (
-             <div className="bg-white rounded-2xl shadow-xl p-6 mt-6">
+             <div className="bg-white rounded-2xl shadow-xl p-4 md:p-6 mt-6">
                 <h2 className="text-xl font-bold mb-4">Riwayat</h2>
-                 <div className="space-y-3 max-h-60 overflow-y-auto">
+                 <div className="space-y-2 md:space-y-3 max-h-60 overflow-y-auto">
                     {history.map(h => (
-                        <div key={h.id} className="flex gap-3 border-b pb-2">
-                             <img src={h.image} className="w-12 h-12 rounded object-cover" />
-                             <div>
-                                 <p className="font-bold text-sm">{h.result.nama}</p>
+                        <div key={h.id} className="flex gap-2 md:gap-3 border-b pb-2">
+                             <img src={h.image} className="w-10 h-10 md:w-12 md:h-12 rounded object-cover flex-shrink-0" />
+                             <div className="flex-1 min-w-0">
+                                 <p className="font-bold text-sm md:text-base truncate">{h.result.nama}</p>
                                  <p className="text-xs text-gray-500">{new Date(h.timestamp).toLocaleDateString()}</p>
                              </div>
-                             <button onClick={()=>deleteHistoryItem(h.id)} className="ml-auto text-red-500"><X size={16}/></button>
+                             <button onClick={()=>deleteHistoryItem(h.id)} className="ml-auto text-red-500 flex-shrink-0"><X size={16}/></button>
                         </div>
                     ))}
                  </div>
